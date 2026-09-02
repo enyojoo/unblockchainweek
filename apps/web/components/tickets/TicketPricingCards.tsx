@@ -25,12 +25,12 @@ function isPartnerTier(tier: PricingTier | PartnerPricingTier): tier is PartnerP
 
 export function TicketPricingCards({
   tiers,
-  eyebrow = "Tickets On Sale Now – Standard Pricing Phase",
-  title = "Secure Your Spot Before Prices Rise",
-  subtitle = "Price increases every few weeks to reward early action. Current prices end September 1, 2026.",
-  phaseNote = "Next price increase in ~19 days (September 1)",
-  footerNote = "Prices will automatically increase on September 1.\nEarly buyers save up to 80% • Limited VIP tickets available.",
-  phaseLabel = "Standard Pricing",
+  eyebrow = "Tickets On Sale Now",
+  title = "Get Your Pass",
+  subtitle = "Join us for ten days of programming during UNGA week in Times Square.",
+  phaseNote,
+  footerNote,
+  phaseLabel,
   partnerPricing = false,
   partnerSlug,
   sectionId = TICKETS_SECTION_ID,
@@ -71,8 +71,12 @@ export function TicketPricingCards({
                   </span>
                 ) : null}
 
-                <p className="text-sm uppercase tracking-wider text-muted">{phaseLabel}</p>
-                <p className="mt-2 text-sm uppercase tracking-wider text-muted">{tier.subtitle}</p>
+                {phaseLabel ? (
+                  <p className="text-sm uppercase tracking-wider text-muted">{phaseLabel}</p>
+                ) : null}
+                <p className={cn("text-sm uppercase tracking-wider text-muted", phaseLabel && "mt-2")}>
+                  {tier.subtitle}
+                </p>
                 <h3 className="mt-1 text-2xl font-bold">{tier.name}</h3>
 
                 {partnerPricing && partnerTier ? (

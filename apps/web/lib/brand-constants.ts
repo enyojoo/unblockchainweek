@@ -44,8 +44,8 @@ export const LEGACY_SITE_HOSTS = [
 ] as const;
 
 export const TICKET_CHECKOUT = {
-  ga: "https://buy.stripe.com/8x2aEWeK9d0a66I7JBfjG0R",
-  vip: "https://buy.stripe.com/fZubJ0fOd2lwdza6FxfjG0S",
+  ga: "https://buy.stripe.com/fZu9AS0Tj7FQbr29RJfjG12",
+  vip: "https://buy.stripe.com/eVq3cu1Xn5xI9iU2phfjG11",
 } as const;
 
 export const TICKETS_SECTION_ID = "tickets";

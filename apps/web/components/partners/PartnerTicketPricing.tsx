@@ -24,13 +24,11 @@ export function PartnerTicketPricing({ partner }: { partner: PartnerPage }) {
       tiers={tiers}
       partnerSlug={partner.slug}
       eyebrow="Tickets On Sale Now – Partner Community Pricing"
-      title="Secure Your Spot Before Prices Rise"
-      subtitle="Exclusive community pricing for partner audiences. Current public prices end September 1, 2026."
+      title="Get Your Pass"
+      subtitle="Exclusive community pricing for partner audiences."
       phaseNote="Partner pricing includes a 10% community discount on current public rates."
       phaseLabel="Partner Community Pricing"
-      footerNote={
-        "Partner pricing is limited to this page.\nEarly buyers save up to 80% • Limited VIP tickets available."
-      }
+      footerNote="Partner pricing is limited to this page."
       partnerPricing
     />
   );
