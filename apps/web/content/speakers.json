@@ -170,6 +170,44 @@
     }
   },
   {
+    "slug": "alejandro-glatt",
+    "name": "Alejandro Glatt",
+    "title": "Mexican Pop Artist & Founder",
+    "company": "Feel the Fruit / Tulum Crypto Fest",
+    "bio": "Alejandro Glatt is a Mexican multidisciplinary artist, cultural producer, and Web3 entrepreneur whose work bridges art, nature, and blockchain technology through the universal symbol of fruit. He is the founder of the Feel the Fruit movement — active across 37 countries since 2010 — and cofounder of Tulum Crypto Fest, a media and events platform focused on sustainable development, culture, and crypto in Mexico's Riviera Maya.\n\nWidely known for Crypto Papayas, his pioneering NFT project blending regenerative art with blockchain (with collections and grants across Polygon, Tezos, XRP, Solana, Skale, and Celo), Alejandro has spoken and exhibited at major crypto and contemporary art platforms worldwide. He was the first Mexican artist to send an artwork to the Moon aboard the Lunaprise Museum lunar mission (2024), and his work has been shown at the Musée du Louvre, Art Basel Miami, the Rubell Museum, Burning Man, and SXSW. Named Guardian of Frida Kahlo by the Frida Kahlo Corporation (2025), he continues to build bridges between Latin American art, digital culture, and real-world impact — including upcoming collaborations with UN Women and the Frida Kahlo Museum in New York.",
+    "expertise": [
+      "CryptoArt & NFT Innovation",
+      "Feel the Fruit Global Movement",
+      "Tulum Crypto Fest (Cofounder)",
+      "Art × Blockchain × Culture",
+      "Immersive Experiences & Cultural Events",
+      "Latin American Contemporary Art"
+    ],
+    "photo": "/speakers/alejandro-glatt.jpg",
+    "themes": [
+      "fashion",
+      "space",
+      "identity"
+    ],
+    "featured": false,
+    "headline": "Bringing Art, Nature, and Blockchain Together Through Feel the Fruit",
+    "tagline": "Mexican Pop Artist · Feel the Fruit · Tulum Crypto Fest",
+    "subtitle": "Feel the Fruit / Tulum Crypto Fest\nCryptoArt · Culture · Regenerative Experiences",
+    "signatureMoves": [
+      "Founder — Feel the Fruit (active in 37 countries since 2010)",
+      "Cofounder — Tulum Crypto Fest",
+      "Creator — Crypto Papayas NFT collections (multi-chain)",
+      "First Mexican artist to send artwork to the Moon (Lunaprise, 2024)",
+      "Exhibited — Musée du Louvre, Art Basel Miami, Rubell Museum, Burning Man",
+      "Named Guardian of Frida Kahlo (2025)"
+    ],
+    "quote": "“We live in a moment where art and technology are merging in ways never seen before — I want to be at that intersection.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/alejandroglatt",
+      "website": "https://alejandroglatt.com"
+    }
+  },
+  {
     "slug": "alex-lightman",
     "name": "Alex Lightman",
     "title": "CEO, Inventor, Speaker, Author, Policy Advisor, Artist",

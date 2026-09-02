@@ -1533,5 +1533,15 @@
     "source": "/li-maor-2",
     "destination": "/li-maor",
     "permanent": true
+  },
+  {
+    "source": "/speakers/alejandro-glatt",
+    "destination": "/alejandro-glatt",
+    "permanent": true
+  },
+  {
+    "source": "/alejandro-glatt-2",
+    "destination": "/alejandro-glatt",
+    "permanent": true
   }
 ]
