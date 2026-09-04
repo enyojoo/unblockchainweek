@@ -1,0 +1,1351 @@
+{
+  "title": "Confirmed Programming",
+  "summary": "Timed run of show for CryptoMondays, Tech Tuesdays (Liberland Meetup), the two-day Hard Rock main stage, BitcoinPalooza, and the Washington Elite Investment Summit & Gala.",
+  "days": [
+    {
+      "id": "mon",
+      "label": "Monday, September 14",
+      "hours": "6:45 pm – 7:30 pm",
+      "venue": "CryptoMondays, Wall Street",
+      "theme": "An intimate CryptoMondays evening on Wall Street. Operators and builders dig into AI security and governance, then close with a fireside on GenAI, LLMs, and what comes next for FinTech.",
+      "dateLabel": "Sep 14",
+      "dayShort": "Mon",
+      "sessions": [
+        {
+          "id": "mon-1845-panel",
+          "start": "18:45",
+          "end": "19:15",
+          "time": "6:45 PM – 7:15 PM",
+          "kind": "panel",
+          "title": "AI Security & Governance",
+          "speakers": [
+            {
+              "name": "Kelly Zou",
+              "slug": "kelly-zou"
+            },
+            {
+              "name": "Sarah Perkins",
+              "slug": "sarah-perkins"
+            },
+            {
+              "name": "Trish Kane",
+              "slug": "trish-kane"
+            },
+            {
+              "name": "Michelle Tan",
+              "slug": "michelle-tan"
+            }
+          ],
+          "description": "As generative AI enters regulated finance, this panel examines the security controls, model governance, and accountability frameworks that keep systems trustworthy. Expect a practical look at risk ownership, auditability, and how institutions can adopt AI without opening new attack surfaces."
+        },
+        {
+          "id": "mon-1915-fireside",
+          "start": "19:15",
+          "end": "19:30",
+          "time": "7:15 PM – 7:30 PM",
+          "kind": "fireside",
+          "title": "GenAI, LLMs & the Future of FinTech",
+          "speakers": [
+            {
+              "name": "Kelly Zou",
+              "slug": "kelly-zou"
+            },
+            {
+              "name": "B. Dweik",
+              "slug": "b-dweik"
+            }
+          ],
+          "description": "A short closing conversation on where large language models are already reshaping finance – and what builders should prioritize next."
+        }
+      ]
+    },
+    {
+      "id": "tue",
+      "label": "Tuesday, September 15",
+      "hours": "6:00 pm – 9:00 pm",
+      "venue": "Tech Tuesdays · Liberland Meetup, Hard Rock Cafe Times Square",
+      "theme": "Tech Tuesdays hosts the official Liberland Meetup at Hard Rock Times Square. Doors open for networking before a headline conversation on liberty, privacy, and ownership – from Liberland to the ledger – then an open mixer.",
+      "dateLabel": "Sep 15",
+      "dayShort": "Tue",
+      "sessions": [
+        {
+          "id": "tue-1800-host",
+          "start": "18:00",
+          "end": "18:40",
+          "time": "6:00 PM – 6:40 PM",
+          "kind": "host",
+          "title": "Doors open and networking",
+          "speakers": [],
+          "description": "Arrive early, grab a drink, and meet the Liberland Meetup crowd before the evening program begins."
+        },
+        {
+          "id": "tue-1930-break",
+          "start": "19:30",
+          "end": "19:40",
+          "time": "7:30 PM – 7:40 PM",
+          "kind": "break",
+          "title": "Break",
+          "speakers": []
+        },
+        {
+          "id": "tue-1940-panel",
+          "start": "19:40",
+          "end": "20:20",
+          "time": "7:40 PM – 8:20 PM",
+          "kind": "panel",
+          "title": "Liberty, Privacy & Ownership: From Liberland to the Ledger",
+          "speakers": [
+            {
+              "name": "Dorian Jakov Stern Vukotic",
+              "slug": "dorian-stern-vukotic"
+            },
+            {
+              "name": "Bruce Porter Jr.",
+              "slug": "bruce-porter-jr"
+            },
+            {
+              "name": "Lou Kerner",
+              "slug": "lou-kerner"
+            },
+            {
+              "name": "Randy Schwarz",
+              "slug": "john-randy-schwarz"
+            }
+          ],
+          "description": "The Liberland Meetup headline explores how liberty, privacy, and ownership translate from political ideals into digital systems people can actually use. Speakers connect sovereign identity, self-custody, and ledger-native rights to the choices builders and citizens face today."
+        },
+        {
+          "id": "tue-2020-host",
+          "start": "20:20",
+          "end": "21:00",
+          "time": "8:20 PM – 9:00 PM",
+          "kind": "host",
+          "title": "Meetup mixer",
+          "speakers": [],
+          "description": "Open floor networking after the headline panel – continue the conversation with speakers and fellow builders."
+        }
+      ]
+    },
+    {
+      "id": "wed",
+      "label": "Wednesday, September 16",
+      "hours": "9:00 am – 5:00 pm",
+      "venue": "Main Stage, Hard Rock Times Square",
+      "theme": "Day one on the Hard Rock main stage opens with President Vít Jedlička and Brock Pierce, then moves from liberty and the constitutional internet into AI agents, on-chain trust, custody and zero-trust risk, U.S. crypto law, and a close on energy, compute, and health sovereignty.",
+      "dateLabel": "Sep 16",
+      "dayShort": "Wed",
+      "sessions": [
+        {
+          "id": "wed-0900-host",
+          "start": "09:00",
+          "end": "09:05",
+          "time": "9:00 AM – 9:05 AM",
+          "kind": "host",
+          "title": "Welcome and housekeeping",
+          "speakers": [],
+          "description": "Doors settle, the room is briefed, and Day 1 of the Hard Rock main stage begins."
+        },
+        {
+          "id": "wed-0905-keynote",
+          "start": "09:05",
+          "end": "09:10",
+          "time": "9:05 AM – 9:10 AM",
+          "kind": "keynote",
+          "title": "Opening Keynote",
+          "speakers": [
+            {
+              "name": "President Vít Jedlička",
+              "slug": "vit-jedlicka"
+            }
+          ],
+          "description": "President Vít Jedlička opens the conference with Liberland’s case for voluntary governance and digital-era freedom."
+        },
+        {
+          "id": "wed-0910-keynote",
+          "start": "09:10",
+          "end": "09:20",
+          "time": "9:10 AM – 9:20 AM",
+          "kind": "keynote",
+          "title": "Opening Keynote",
+          "speakers": [
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            }
+          ],
+          "description": "Brock Pierce frames the week ahead – why capital, culture, and cryptography are converging now."
+        },
+        {
+          "id": "wed-0920-panel",
+          "start": "09:20",
+          "end": "09:50",
+          "time": "9:20 AM – 9:50 AM",
+          "kind": "panel",
+          "title": "Liberty, Privacy & Building the Better World",
+          "speakers": [
+            {
+              "name": "Karla Ballard",
+              "slug": "karla-ballard"
+            },
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            },
+            {
+              "name": "Eva Wong",
+              "slug": "eva-wong"
+            },
+            {
+              "name": "David A. Cass",
+              "slug": null
+            }
+          ],
+          "description": "Opening the main stage with a values-first frame: how privacy, open networks, and intentional design can still produce a more equitable digital world. The conversation sets the week’s north star–technology that expands agency rather than concentrating control."
+        },
+        {
+          "id": "wed-0950-panel",
+          "start": "09:50",
+          "end": "10:20",
+          "time": "9:50 AM – 10:20 AM",
+          "kind": "panel",
+          "title": "Constitutional Internet, Disputes & Why Policy Needs Cypherpunks",
+          "speakers": [
+            {
+              "name": "Dele Atanda",
+              "slug": "dele-atanda"
+            },
+            {
+              "name": "Eric Guthrie",
+              "slug": "eric-guthrie"
+            },
+            {
+              "name": "Harshitha Ram",
+              "slug": "harshitha-ram"
+            },
+            {
+              "name": "Samuel Jacques-Cloutier",
+              "slug": "samuel-jacques-cloutier"
+            }
+          ],
+          "description": "What happens when online life needs constitutional-grade rules–dispute resolution, due process, and policy that understands cryptography? Panelists argue why lawmakers need cypherpunk insight, and how rights-preserving architecture can survive real-world conflict."
+        },
+        {
+          "id": "wed-1020-panel",
+          "start": "10:20",
+          "end": "10:50",
+          "time": "10:20 AM – 10:50 AM",
+          "kind": "panel",
+          "title": "Oversight, Legal Engineering & the Human Layer",
+          "speakers": [
+            {
+              "name": "Dr. Siegfried Isele",
+              "slug": "dr-siegfried-isele"
+            },
+            {
+              "name": "Irina Kanaeva",
+              "slug": "irina-kanaeva"
+            },
+            {
+              "name": "Gabriela Ivancu",
+              "slug": "gabriela-ivancu"
+            },
+            {
+              "name": "Melody Fogarty",
+              "slug": "melody-fogarty"
+            },
+            {
+              "name": "Srinivasa Rao Gunda",
+              "slug": "srinivasa-rao-gunda"
+            }
+          ],
+          "description": "Beyond code and contracts sits the human layer: oversight, legal engineering, and the people who keep systems honest when incentives fail. This session maps how institutions, counsel, and operators share responsibility for resilient digital markets."
+        },
+        {
+          "id": "wed-1050-break",
+          "start": "10:50",
+          "end": "11:05",
+          "time": "10:50 AM – 11:05 AM",
+          "kind": "break",
+          "title": "Break",
+          "speakers": []
+        },
+        {
+          "id": "wed-1105-keynote",
+          "start": "11:05",
+          "end": "11:25",
+          "time": "11:05 AM – 11:25 AM",
+          "kind": "keynote",
+          "title": "Survivability in the Age of AI",
+          "speakers": [
+            {
+              "name": "Alex Lightman",
+              "slug": "alex-lightman"
+            }
+          ],
+          "description": "Alex Lightman on staying human, resilient, and strategically relevant as AI accelerates every industry."
+        },
+        {
+          "id": "wed-1125-panel",
+          "start": "11:25",
+          "end": "11:55",
+          "time": "11:25 AM – 11:55 AM",
+          "kind": "panel",
+          "title": "Writing the Rules Without Killing the Signal",
+          "speakers": [
+            {
+              "name": "Dorian Jakov Stern Vukotic",
+              "slug": "dorian-stern-vukotic"
+            },
+            {
+              "name": "Hugh Dugan",
+              "slug": "hugh-dugan"
+            },
+            {
+              "name": "Olubunmi Fabanwo",
+              "slug": "olubunmi-fabanwo"
+            },
+            {
+              "name": "Cat Bonar",
+              "slug": "cat-bonar"
+            }
+          ],
+          "description": "Regulation can clarify markets–or smother the innovation that made them valuable. Leaders from policy, sovereignty, and industry debate how to write durable rules that protect users while keeping open networks competitive and expressive."
+        },
+        {
+          "id": "wed-1155-lunch",
+          "start": "11:55",
+          "end": "12:50",
+          "time": "11:55 AM – 12:50 PM",
+          "kind": "lunch",
+          "title": "Lunch",
+          "speakers": []
+        },
+        {
+          "id": "wed-1250-panel",
+          "start": "12:50",
+          "end": "13:20",
+          "time": "12:50 PM – 1:20 PM",
+          "kind": "panel",
+          "title": "The Trust Layer: Why AI Without Blockchain Is the New Wild West",
+          "speakers": [
+            {
+              "name": "Cat Bonar",
+              "slug": "cat-bonar"
+            },
+            {
+              "name": "Mihaela Ulieru",
+              "slug": "mihaela-ulieru"
+            },
+            {
+              "name": "Jimmy Nguyen",
+              "slug": "jimmy-nguyen"
+            },
+            {
+              "name": "James Anthony Wolff",
+              "slug": "james-anthony-wolff"
+            },
+            {
+              "name": "Carsten Stocker",
+              "slug": "carsten-stocker"
+            }
+          ],
+          "description": "AI without verifiable infrastructure is a black box with planetary stakes. This panel makes the case for blockchain as the trust layer–provenance, accountability, and audit trails–so autonomous systems can be governed, not just deployed."
+        },
+        {
+          "id": "wed-1320-panel",
+          "start": "13:20",
+          "end": "13:50",
+          "time": "1:20 PM – 1:50 PM",
+          "kind": "panel",
+          "title": "From Intent to Reasoning: Agents, Privacy, Regenerative Infrastructure & the Interoperability Grid",
+          "speakers": [
+            {
+              "name": "Akhil Sharma",
+              "slug": "akhil-sharma"
+            },
+            {
+              "name": "Annelise Osborne",
+              "slug": "annelise-osborne"
+            },
+            {
+              "name": "Milan Cheeks",
+              "slug": "milan-cheeks"
+            },
+            {
+              "name": "Yoon Auh",
+              "slug": "yoon-auh"
+            }
+          ],
+          "description": "From user intent to agent reasoning, the next stack must balance autonomy with privacy and shared infrastructure. Speakers unpack agents, regenerative systems, and interoperability grids that let machines coordinate without surrendering user control."
+        },
+        {
+          "id": "wed-1350-panel",
+          "start": "13:50",
+          "end": "14:20",
+          "time": "1:50 PM – 2:20 PM",
+          "kind": "panel",
+          "title": "Governance by Design: AI Agents, DeFi Controls, Permanent Code & Multi-Cloud Trust",
+          "speakers": [
+            {
+              "name": "Rumee Singh",
+              "slug": "rumee-singh"
+            },
+            {
+              "name": "Alok Tibrewala",
+              "slug": "alok-tibrewala"
+            },
+            {
+              "name": "Alan Avidan",
+              "slug": "alan-avidan"
+            },
+            {
+              "name": "Peter Smulovics",
+              "slug": "peter-smulovics"
+            },
+            {
+              "name": "Anisha Salunkhe",
+              "slug": "anisha-salunkhe"
+            }
+          ],
+          "description": "Governance cannot be bolted on after launch. This session explores designing AI agents, DeFi controls, and multi-cloud architectures so policy, permanence, and trust are encoded from day one–not patched in after failure."
+        },
+        {
+          "id": "wed-1420-panel",
+          "start": "14:20",
+          "end": "14:50",
+          "time": "2:20 PM – 2:50 PM",
+          "kind": "panel",
+          "title": "Who Owns the Risk When Finance Moves On-Chain? Identity, Custody & Zero-Trust Machines",
+          "speakers": [
+            {
+              "name": "Brandon Nebeker",
+              "slug": "brandon-nebeker"
+            },
+            {
+              "name": "David Doss",
+              "slug": "david-doss"
+            },
+            {
+              "name": "Samir Sengupta",
+              "slug": "samir-sengupta"
+            },
+            {
+              "name": "Sreejith Kaimal",
+              "slug": "sreejith-kaimal"
+            }
+          ],
+          "description": "When finance moves on-chain, risk does not disappear–it relocates across identity, custody, and machine-to-machine trust. Panelists examine who is liable when automated systems fail, and which controls make institutional adoption possible."
+        },
+        {
+          "id": "wed-1450-break",
+          "start": "14:50",
+          "end": "15:00",
+          "time": "2:50 PM – 3:00 PM",
+          "kind": "break",
+          "title": "Break",
+          "speakers": []
+        },
+        {
+          "id": "wed-1500-panel",
+          "start": "15:00",
+          "end": "15:30",
+          "time": "3:00 PM – 3:30 PM",
+          "kind": "panel",
+          "title": "The Future Is Verified: Trust, Frontiers, Orbital Compute & Capital",
+          "speakers": [
+            {
+              "name": "David Doss",
+              "slug": "david-doss"
+            },
+            {
+              "name": "Dan Saklakov",
+              "slug": "dan-saklakov"
+            },
+            {
+              "name": "Mike Bass",
+              "slug": "mike-bass"
+            },
+            {
+              "name": "Elizabeth Sullivan",
+              "slug": "elizabeth-sullivan"
+            },
+            {
+              "name": "Selva Ozelli",
+              "slug": "selva-ozelli"
+            }
+          ],
+          "description": "Verification is becoming the scarce commodity–across frontiers of trust, capital formation, and even orbital compute. This panel looks at how proof, infrastructure, and investment converge as digital systems leave the bounds of traditional platforms."
+        },
+        {
+          "id": "wed-1530-panel",
+          "start": "15:30",
+          "end": "16:05",
+          "time": "3:30 PM – 4:05 PM",
+          "kind": "panel",
+          "title": "Incentive Design, Intelligent Economies & Jurisdictional Crypto",
+          "speakers": [
+            {
+              "name": "Kelly Ye",
+              "slug": "kelly-ye"
+            },
+            {
+              "name": "Chairman Elijah John Bowdre",
+              "slug": "chairman-elijah-john-bowdre"
+            },
+            {
+              "name": "Mr. Griffin",
+              "slug": "mr-griffin"
+            },
+            {
+              "name": "Doug Jordan",
+              "slug": "doug-jordan"
+            },
+            {
+              "name": "Angele' Doyne",
+              "slug": "angele-doyne"
+            }
+          ],
+          "description": "Crypto economies live or die on incentives and the jurisdictions that host them. Speakers dissect intelligent market design, jurisdictional strategy, and how thoughtful token and policy architecture shapes durable on-chain communities."
+        },
+        {
+          "id": "wed-1605-panel",
+          "start": "16:05",
+          "end": "16:30",
+          "time": "4:05 PM – 4:30 PM",
+          "kind": "panel",
+          "title": "Clarity or Chaos? The Legal State of Crypto in the U.S. and Abroad",
+          "speakers": [
+            {
+              "name": "Cat Bonar",
+              "slug": "cat-bonar"
+            },
+            {
+              "name": "Daniel Payne",
+              "slug": null
+            },
+            {
+              "name": "Harris Kay",
+              "slug": null
+            }
+          ],
+          "description": "A clear-eyed brief on crypto’s legal reality in the U.S. and abroad–where clarity is arriving, where ambiguity remains, and what builders and investors should do now. Expect actionable takeaways on compliance posture without the theater."
+        },
+        {
+          "id": "wed-1630-panel",
+          "start": "16:30",
+          "end": "16:55",
+          "time": "4:30 PM – 4:55 PM",
+          "kind": "panel",
+          "title": "Energy, Compute, Heart Coherence & Health Sovereignty for Leaders",
+          "speakers": [
+            {
+              "name": "Chris Ransdell",
+              "slug": "chris-ransdell"
+            },
+            {
+              "name": "Dr Roxane Langlois",
+              "slug": "dr-roxane-langlois"
+            },
+            {
+              "name": "Trish Kane",
+              "slug": "trish-kane"
+            }
+          ],
+          "description": "Closing Wednesday with the human operating system: energy, compute intensity, heart coherence, and health sovereignty for leaders under pressure. The panel connects personal resilience to the same systems thinking that drives the week’s tech agenda."
+        },
+        {
+          "id": "wed-1655-host",
+          "start": "16:55",
+          "end": "17:00",
+          "time": "4:55 PM – 5:00 PM",
+          "kind": "host",
+          "title": "Day 1 close",
+          "speakers": [],
+          "description": "Day 1 wraps – carry the conversations into the evening and prepare for capital day tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "thu",
+      "label": "Thursday, September 17",
+      "hours": "9:00 am – 5:00 pm",
+      "venue": "Main Stage, Hard Rock Times Square",
+      "theme": "Day two turns to capital: Bitcoin beyond blind accumulation, the new sovereign moment, and the rails that move the global dollar. Afternoon sessions cover emerging-market access, natural-capital provenance, tokenization, and real estate on-chain – then the hand-off to BitcoinPalooza.",
+      "dateLabel": "Sep 17",
+      "dayShort": "Thu",
+      "sessions": [
+        {
+          "id": "thu-0900-host",
+          "start": "09:00",
+          "end": "09:05",
+          "time": "9:00 AM – 9:05 AM",
+          "kind": "host",
+          "title": "Welcome",
+          "speakers": [],
+          "description": "Welcome back to the Hard Rock main stage for Day 2 – capital, rails, and real-world assets."
+        },
+        {
+          "id": "thu-0905-panel",
+          "start": "09:05",
+          "end": "09:35",
+          "time": "9:05 AM – 9:35 AM",
+          "kind": "panel",
+          "title": "Bitcoin Deserves Better Than Blind Accumulation",
+          "speakers": [
+            {
+              "name": "Dr. Vin Menon",
+              "slug": "dr-vin-menon"
+            },
+            {
+              "name": "Nikita (Sachdev) Lord",
+              "slug": "nikita-sachdev-lord"
+            },
+            {
+              "name": "Phillip Lord",
+              "slug": null
+            },
+            {
+              "name": "Bryant Nielson",
+              "slug": "bryant-nielson"
+            }
+          ],
+          "description": "Blind accumulation is not a strategy. Bitcoin treasury leaders and market thinkers debate allocation discipline, risk management, and what “better” looks like when digital assets sit on corporate and institutional balance sheets."
+        },
+        {
+          "id": "thu-0935-panel",
+          "start": "09:35",
+          "end": "10:05",
+          "time": "9:35 AM – 10:05 AM",
+          "kind": "panel",
+          "title": "The New Sovereign Moment",
+          "speakers": [
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            },
+            {
+              "name": "Michael Terpin",
+              "slug": "michael-terpin"
+            },
+            {
+              "name": "Lou Kerner",
+              "slug": "lou-kerner"
+            }
+          ],
+          "description": "A new sovereign moment is reshaping capital, networks, and national strategy around digital assets. Pierce, Terpin, and Kerner frame where power is shifting–and which bets still matter as Bitcoin and crypto enter the geopolitical mainstream."
+        },
+        {
+          "id": "thu-1005-panel",
+          "start": "10:05",
+          "end": "10:35",
+          "time": "10:05 AM – 10:35 AM",
+          "kind": "panel",
+          "title": "Digital Assets, Bitcoin, Stablecoin and Banking: Securing the Training Pipeline",
+          "speakers": [
+            {
+              "name": "Ashvin Dhawan",
+              "slug": "ashvin-dhawan"
+            },
+            {
+              "name": "Muneer Basha Shaik",
+              "slug": "muneer-basha-shaik"
+            },
+            {
+              "name": "Ingamar Ramirez",
+              "slug": "ingamar-ramirez"
+            },
+            {
+              "name": "Bryan Talebi",
+              "slug": "bryan-talebi"
+            }
+          ],
+          "description": "Banks, Bitcoin, and stablecoins only scale if people know how to operate them. This panel focuses on securing the talent and training pipeline–skills, tooling, and institutional readiness for a digital-asset workforce."
+        },
+        {
+          "id": "thu-1035-break",
+          "start": "10:35",
+          "end": "10:45",
+          "time": "10:35 AM – 10:45 AM",
+          "kind": "break",
+          "title": "Break",
+          "speakers": []
+        },
+        {
+          "id": "thu-1045-panel",
+          "start": "10:45",
+          "end": "11:20",
+          "time": "10:45 AM – 11:20 AM",
+          "kind": "panel",
+          "title": "The Global Dollar’s Last Mile: Can Stablecoins Build a Fairer Financial System for Emerging Markets?",
+          "speakers": [
+            {
+              "name": "Christian Levan",
+              "slug": "christian-levan"
+            },
+            {
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
+            },
+            {
+              "name": "Obinna Ukwuani",
+              "slug": "obinna-ukwuani"
+            },
+            {
+              "name": "Thao Dang",
+              "slug": "thao-dang"
+            },
+            {
+              "name": "Rajiv Jadhav",
+              "slug": "rajiv-jadhav"
+            }
+          ],
+          "description": "Part one of the Global Dollar series asks whether stablecoins can deliver fairer rails for emerging markets–or simply export old asymmetries in new packaging. Speakers ground the debate in remittances, inclusion, and real user outcomes."
+        },
+        {
+          "id": "thu-1120-panel",
+          "start": "11:20",
+          "end": "11:50",
+          "time": "11:20 AM – 11:50 AM",
+          "kind": "panel",
+          "title": "The Global Dollar’s Backbone: Who Builds the Infrastructure That Makes Stablecoin Money Move?",
+          "speakers": [
+            {
+              "name": "Christian Levan",
+              "slug": "christian-levan"
+            },
+            {
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
+            },
+            {
+              "name": "Chris Maurice",
+              "slug": null
+            }
+          ],
+          "description": "Stablecoin money only moves as far as its plumbing allows. Builders of the Global Dollar backbone discuss liquidity, settlement, compliance, and the infrastructure choices that decide who can send value–and at what cost."
+        },
+        {
+          "id": "thu-1150-panel",
+          "start": "11:50",
+          "end": "12:25",
+          "time": "11:50 AM – 12:25 PM",
+          "kind": "panel",
+          "title": "Sovereignty, Legacy & What Actually Kills Web3 Pitches",
+          "speakers": [
+            {
+              "name": "Monika Proffitt",
+              "slug": "monika-proffitt"
+            },
+            {
+              "name": "Michael Terpin",
+              "slug": "michael-terpin"
+            },
+            {
+              "name": "Joyce Show",
+              "slug": null
+            },
+            {
+              "name": "Charles Forrest",
+              "slug": null
+            },
+            {
+              "name": "Shawn Owen",
+              "slug": null
+            }
+          ],
+          "description": "Most Web3 pitches fail for reasons founders ignore until it is too late. Investors and operators break down sovereignty narratives, legacy friction, and the deal-killers that separate fundable teams from theater."
+        },
+        {
+          "id": "thu-1225-panel",
+          "start": "12:25",
+          "end": "12:55",
+          "time": "12:25 PM – 12:55 PM",
+          "kind": "panel",
+          "title": "Liquidity, Risk & Pitching Investors Who Don't Care About Web3",
+          "speakers": [
+            {
+              "name": "George Benson",
+              "slug": "george-benson"
+            },
+            {
+              "name": "Justine Bone",
+              "slug": "justine-bone"
+            },
+            {
+              "name": "Mike Lingle",
+              "slug": "mike-lingle"
+            }
+          ],
+          "description": "Pitching investors who do not care about Web3 means translating product into liquidity, risk, and returns they already understand. This session delivers a blunt playbook for founders who want capital from outside the crypto echo chamber."
+        },
+        {
+          "id": "thu-1255-lunch",
+          "start": "12:55",
+          "end": "13:55",
+          "time": "12:55 PM – 1:55 PM",
+          "kind": "lunch",
+          "title": "Lunch",
+          "speakers": []
+        },
+        {
+          "id": "thu-1355-panel",
+          "start": "13:55",
+          "end": "14:25",
+          "time": "1:55 PM – 2:25 PM",
+          "kind": "panel",
+          "title": "The Other Half of Genius: Why Financial Access Is the Unlock for the Next Billion Innovators",
+          "speakers": [
+            {
+              "name": "Christian Levan",
+              "slug": "christian-levan"
+            },
+            {
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
+            },
+            {
+              "name": "Elliot David",
+              "slug": "elliot-david"
+            },
+            {
+              "name": "Kesem Frank",
+              "slug": "kesem-frank"
+            },
+            {
+              "name": "Nicole Nguyen",
+              "slug": "nicole-nguyen"
+            }
+          ],
+          "description": "Closing the Global Dollar arc: financial access as the unlock for the next billion innovators. Panelists connect rails, incubation, and regional ecosystems–showing how money movement and opportunity rise together."
+        },
+        {
+          "id": "thu-1425-panel",
+          "start": "14:25",
+          "end": "14:55",
+          "time": "2:25 PM – 2:55 PM",
+          "kind": "panel",
+          "title": "Digitizing Trust: Provenance, Natural Capital & Environmental Assets On-Chain",
+          "speakers": [
+            {
+              "name": "Adam Reiser",
+              "slug": "adam-reiser"
+            },
+            {
+              "name": "Wook Lee",
+              "slug": "wook-lee"
+            },
+            {
+              "name": "Brian J. Esposito",
+              "slug": "brian-j-esposito"
+            }
+          ],
+          "description": "Natural capital and environmental assets only become investable when provenance is trustworthy. This panel explores on-chain certification, nutrient and climate-linked credits, and the bridge from ecological value to regulated markets."
+        },
+        {
+          "id": "thu-1455-panel",
+          "start": "14:55",
+          "end": "15:25",
+          "time": "2:55 PM – 3:25 PM",
+          "kind": "panel",
+          "title": "Tokenizing the Real World: Issuance, IP & Global Capital Markets",
+          "speakers": [
+            {
+              "name": "Jimmy Nguyen",
+              "slug": "jimmy-nguyen"
+            },
+            {
+              "name": "Mark Elenowitz",
+              "slug": "mark-elenowitz"
+            },
+            {
+              "name": "Khoa Le",
+              "slug": "khoa-le"
+            },
+            {
+              "name": "Brian J. Esposito",
+              "slug": "brian-j-esposito"
+            },
+            {
+              "name": "Travis John",
+              "slug": "travis-john"
+            }
+          ],
+          "description": "Tokenizing the real world is an issuance, IP, and capital-markets problem–not just a smart-contract demo. Speakers unpack how security tokens and RWAs can reach public-market credibility at global scale."
+        },
+        {
+          "id": "thu-1525-break",
+          "start": "15:25",
+          "end": "15:35",
+          "time": "3:25 PM – 3:35 PM",
+          "kind": "break",
+          "title": "Break",
+          "speakers": []
+        },
+        {
+          "id": "thu-1535-panel",
+          "start": "15:35",
+          "end": "16:05",
+          "time": "3:35 PM – 4:05 PM",
+          "kind": "panel",
+          "title": "The Real Estate Revolution: How Tokenization is Democratizing Global Property Markets",
+          "speakers": [
+            {
+              "name": "Marco Kowalewski",
+              "slug": "marco-kowalewski"
+            },
+            {
+              "name": "Rushil Kalghatkar",
+              "slug": null
+            },
+            {
+              "name": "Bruno Beranger",
+              "slug": null
+            },
+            {
+              "name": "Peter Merc",
+              "slug": null
+            }
+          ],
+          "description": "Property markets are opening to fractional ownership and cross-border participation through tokenization. This panel examines how real estate rails can democratize access while meeting the legal and operational bar investors demand."
+        },
+        {
+          "id": "thu-1605-panel",
+          "start": "16:05",
+          "end": "16:30",
+          "time": "4:05 PM – 4:30 PM",
+          "kind": "panel",
+          "title": "Real Estate On-Chain: Equity, ADUs & Compliant Marketplaces",
+          "speakers": [
+            {
+              "name": "Yaeunda Pou Williams",
+              "slug": "yaeunda-pou-williams"
+            },
+            {
+              "name": "Mir Ali Asgary",
+              "slug": "mir-ali-asgary"
+            },
+            {
+              "name": "Matt Andelman",
+              "slug": null
+            }
+          ],
+          "description": "From equity structures to ADUs and compliant marketplaces, on-chain real estate needs products people can actually buy and hold. Practitioners share how to ship regulated property exposure without sacrificing usability."
+        },
+        {
+          "id": "thu-1630-panel",
+          "start": "16:30",
+          "end": "16:55",
+          "time": "4:30 PM – 4:55 PM",
+          "kind": "panel",
+          "title": "RWA at Scale: Smart Tokens, Tokenomics, Disaster Cash & When AI Agents Pay",
+          "speakers": [
+            {
+              "name": "Aaron Williams",
+              "slug": "aaron-williams"
+            },
+            {
+              "name": "Kavitha Kanaparthi",
+              "slug": "kavitha-kanaparthi"
+            },
+            {
+              "name": "Wassim Jarkas",
+              "slug": "wassim-jarkas"
+            },
+            {
+              "name": "Rosalyn Brown",
+              "slug": "rosalyn-brown"
+            }
+          ],
+          "description": "RWA at scale means smart tokens, real tokenomics, disaster liquidity, and a future where AI agents transact. The final main-stage panel ties issuance mechanics to autonomous payment and crisis-ready capital flows."
+        },
+        {
+          "id": "thu-1655-host",
+          "start": "16:55",
+          "end": "17:00",
+          "time": "4:55 PM – 5:00 PM",
+          "kind": "host",
+          "title": "Day 2 close and hand-off to BitcoinPalooza",
+          "speakers": [],
+          "description": "Day 2 closes. The floor resets for BitcoinPalooza – culture, performance, and the after party."
+        }
+      ]
+    },
+    {
+      "id": "palooza",
+      "label": "Thursday night · BitcoinPalooza",
+      "hours": "7:00 pm – midnight",
+      "venue": "Hard Rock Cafe Times Square",
+      "theme": "The official after party. KOVO’s art fills the floor all night while Bella Porter, Alejandro Glatt, Emily Lazar, Aaron Williams, Enyo Sam, and The Coinheads take the stage – with culture panels on art, fashion, Bitcoin, and the long game.",
+      "dateLabel": "Sep 17",
+      "dayShort": "Thu",
+      "sessions": [
+        {
+          "id": "palooza-1900-performance",
+          "start": "19:00",
+          "end": "19:30",
+          "time": "7:00 PM – 7:30 PM",
+          "kind": "performance",
+          "title": "Doors open: KOVO's world-famous art, live on the floor all night",
+          "speakers": [
+            {
+              "name": "KOVO",
+              "slug": null
+            }
+          ],
+          "description": "Doors open into KOVO’s floor installation – art in the room all night as BitcoinPalooza fills Hard Rock Times Square."
+        },
+        {
+          "id": "palooza-1930-host",
+          "start": "19:30",
+          "end": "19:40",
+          "time": "7:30 PM – 7:40 PM",
+          "kind": "host",
+          "title": "Welcome to BitcoinPalooza",
+          "speakers": [],
+          "description": "The after party is on: welcome to BitcoinPalooza."
+        },
+        {
+          "id": "palooza-1940-performance",
+          "start": "19:40",
+          "end": "19:55",
+          "time": "7:40 PM – 7:55 PM",
+          "kind": "performance",
+          "title": "Bella Porter sings",
+          "speakers": [
+            {
+              "name": "Bella Porter",
+              "slug": null
+            }
+          ],
+          "description": "Bella Porter opens the stage with a live set."
+        },
+        {
+          "id": "palooza-1955-panel",
+          "start": "19:55",
+          "end": "20:25",
+          "time": "7:55 PM – 8:25 PM",
+          "kind": "panel",
+          "title": "Making the Moment: Art, Music, Fashion & the Culture Crypto Builds",
+          "speakers": [
+            {
+              "name": "Karla Ballard",
+              "slug": "karla-ballard"
+            },
+            {
+              "name": "Emily Lazar",
+              "slug": "emily-lazar"
+            },
+            {
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
+            },
+            {
+              "name": "Aaron Williams",
+              "slug": "aaron-williams"
+            },
+            {
+              "name": "Alejandro Glatt",
+              "slug": "alejandro-glatt"
+            }
+          ],
+          "description": "Crypto’s culture layer–art, music, fashion, and live moments–is where narratives stick. Creators on tonight’s bill discuss how special experiences get made, and why cultural craft is infrastructure for the next wave of adoption."
+        },
+        {
+          "id": "palooza-2025-performance",
+          "start": "20:25",
+          "end": "20:45",
+          "time": "8:25 PM – 8:45 PM",
+          "kind": "performance",
+          "title": "Fashion show: Alejandro Glatt",
+          "speakers": [
+            {
+              "name": "Alejandro Glatt",
+              "slug": "alejandro-glatt"
+            }
+          ],
+          "description": "Alejandro Glatt’s fashion show hits the runway inside the Palooza floor."
+        },
+        {
+          "id": "palooza-2045-performance",
+          "start": "20:45",
+          "end": "21:05",
+          "time": "8:45 PM – 9:05 PM",
+          "kind": "performance",
+          "title": "Emily Lazar performs",
+          "speakers": [
+            {
+              "name": "Emily Lazar",
+              "slug": "emily-lazar"
+            }
+          ],
+          "description": "Emily Lazar takes the stage for a live performance."
+        },
+        {
+          "id": "palooza-2105-panel",
+          "start": "21:05",
+          "end": "21:35",
+          "time": "9:05 PM – 9:35 PM",
+          "kind": "panel",
+          "title": "Three Characters, One Conviction: Bitcoin, Bets & the Long Game",
+          "speakers": [
+            {
+              "name": "Dr. Vin Menon",
+              "slug": "dr-vin-menon"
+            },
+            {
+              "name": "Brian J. Esposito",
+              "slug": "brian-j-esposito"
+            },
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            }
+          ],
+          "description": "Three long-game believers compare conviction, cost, and the bets that kept them in Bitcoin and digital assets. An unvarnished conversation about risk, patience, and what endurance looks like when markets turn."
+        },
+        {
+          "id": "palooza-2135-performance",
+          "start": "21:35",
+          "end": "22:00",
+          "time": "9:35 PM – 10:00 PM",
+          "kind": "performance",
+          "title": "Live set: Aaron Williams",
+          "speakers": [
+            {
+              "name": "Aaron Williams",
+              "slug": "aaron-williams"
+            }
+          ],
+          "description": "Aaron Williams brings a live set to the BitcoinPalooza stage."
+        },
+        {
+          "id": "palooza-2200-performance",
+          "start": "22:00",
+          "end": "22:20",
+          "time": "10:00 PM – 10:20 PM",
+          "kind": "performance",
+          "title": "Enyo Sam performs",
+          "speakers": [
+            {
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
+            }
+          ],
+          "description": "Enyo Sam performs live as the night accelerates toward midnight."
+        },
+        {
+          "id": "palooza-2220-performance",
+          "start": "22:20",
+          "end": "23:05",
+          "time": "10:20 PM – 11:05 PM",
+          "kind": "performance",
+          "title": "The Coinheads",
+          "speakers": [
+            {
+              "name": "The Coinheads",
+              "slug": null
+            }
+          ],
+          "description": "The Coinheads close the performance block with a full live set."
+        },
+        {
+          "id": "palooza-2305-host",
+          "start": "23:05",
+          "end": "24:00",
+          "time": "11:05 PM – 12:00 AM",
+          "kind": "host",
+          "title": "Party continues to midnight",
+          "speakers": [],
+          "description": "The party keeps going – music, art, and the floor until midnight."
+        }
+      ]
+    },
+    {
+      "id": "fri",
+      "label": "Friday, September 18",
+      "hours": "4:00 pm – 6:00 pm, then the Gala",
+      "venue": "Main Stage, Hard Rock Times Square",
+      "theme": "The Washington Elite Investment Summit on the Hard Rock main stage, then the Gala. Opening and closing performances by Santiago Cumplido Del Castillo; Brock Pierce opens the summit. Panels move from UN-aligned capital and institutional infrastructure to cities, supply chains, and leaders deploying capital at global scale.",
+      "dateLabel": "Sep 18",
+      "dayShort": "Fri",
+      "sessions": [
+        {
+          "id": "fri-1600-performance",
+          "start": "16:00",
+          "end": "16:05",
+          "time": "4:00 PM – 4:05 PM",
+          "kind": "performance",
+          "title": "Opening set: Santiago Cumplido Del Castillo",
+          "speakers": [
+            {
+              "name": "Santiago Cumplido Del Castillo",
+              "slug": null
+            }
+          ],
+          "description": "Santiago Cumplido Del Castillo opens the Washington Elite Investment Summit with a special performance."
+        },
+        {
+          "id": "fri-1605-keynote",
+          "start": "16:05",
+          "end": "16:15",
+          "time": "4:05 PM – 4:15 PM",
+          "kind": "keynote",
+          "title": "Washington Elite Opening",
+          "speakers": [
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            }
+          ],
+          "description": "Brock Pierce opens the summit – capital, diplomacy, and the week’s closing mandate."
+        },
+        {
+          "id": "fri-1615-panel",
+          "start": "16:15",
+          "end": "16:40",
+          "time": "4:15 PM – 4:40 PM",
+          "kind": "panel",
+          "title": "Capital at the UN Table: Financing Guidelines into Markets",
+          "speakers": [
+            {
+              "name": "Hugh Dugan",
+              "slug": "hugh-dugan"
+            },
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            },
+            {
+              "name": "Alex Lightman",
+              "slug": "alex-lightman"
+            },
+            {
+              "name": "Dr. Vin Menon",
+              "slug": "dr-vin-menon"
+            },
+            {
+              "name": "David A. Cass",
+              "slug": null
+            }
+          ],
+          "description": "At the UN table, guidelines only matter if capital can follow. This summit panel bridges multilateral frameworks and market mechanisms–how financing instruments turn policy intent into deployable infrastructure."
+        },
+        {
+          "id": "fri-1640-panel",
+          "start": "16:40",
+          "end": "17:00",
+          "time": "4:40 PM – 5:00 PM",
+          "kind": "panel",
+          "title": "Institutional Capital for UN-Aligned Infrastructure",
+          "speakers": [
+            {
+              "name": "Jimmy Nguyen",
+              "slug": "jimmy-nguyen"
+            },
+            {
+              "name": "Pascal van Knijff",
+              "slug": "pascal-van-knijff"
+            },
+            {
+              "name": "Rajiv Jadhav",
+              "slug": "rajiv-jadhav"
+            }
+          ],
+          "description": "Institutional allocators are evaluating UN-aligned infrastructure as a distinct category of opportunity. Speakers outline what “bankable” looks like: governance, returns, and the structures that let large capital participate responsibly."
+        },
+        {
+          "id": "fri-1700-panel",
+          "start": "17:00",
+          "end": "17:20",
+          "time": "5:00 PM – 5:20 PM",
+          "kind": "panel",
+          "title": "Dressed for the Party, Built for the Morning After",
+          "speakers": [
+            {
+              "name": "Anna Muheim",
+              "slug": "anna-muheim"
+            },
+            {
+              "name": "Katie Hilborn",
+              "slug": "katie-hilborn"
+            },
+            {
+              "name": "Thuy Pham",
+              "slug": "thuy-pham"
+            }
+          ],
+          "description": "Looking past the gala glow: how founders and operators dress for the party while building for the morning after. A candid panel on staying power, brand, and the operational habits that survive the spotlight."
+        },
+        {
+          "id": "fri-1720-panel",
+          "start": "17:20",
+          "end": "17:40",
+          "time": "5:20 PM – 5:40 PM",
+          "kind": "panel",
+          "title": "Where Freedom, Tech & Capital Meet: Cities, Supply Chains & the Human Ledger",
+          "speakers": [
+            {
+              "name": "Cordy Joseph",
+              "slug": "cordy-joseph"
+            },
+            {
+              "name": "David Fung",
+              "slug": "david-fung"
+            },
+            {
+              "name": "Tiffany Hall",
+              "slug": "tiffany-hall"
+            },
+            {
+              "name": "Adam Reiser",
+              "slug": "adam-reiser"
+            }
+          ],
+          "description": "Freedom, technology, and capital meet in cities, supply chains, and the human ledger of trust. Panelists connect place-based systems to digital rails–and to the people those systems are supposed to serve."
+        },
+        {
+          "id": "fri-1740-panel",
+          "start": "17:40",
+          "end": "18:00",
+          "time": "5:40 PM – 6:00 PM",
+          "kind": "panel",
+          "title": "Closing Vision: Leaders Deploying Capital at Global Scale",
+          "speakers": [
+            {
+              "name": "Brock Pierce",
+              "slug": "brock-pierce"
+            },
+            {
+              "name": "Jimmy Nguyen",
+              "slug": "jimmy-nguyen"
+            },
+            {
+              "name": "Lou Kerner",
+              "slug": "lou-kerner"
+            },
+            {
+              "name": "Karla Ballard",
+              "slug": "karla-ballard"
+            }
+          ],
+          "description": "Closing vision from leaders who deploy capital at global scale. Expect a forward look at where conviction, networks, and institutional readiness are pointing–and what Blockchain Week’s community should build next."
+        },
+        {
+          "id": "fri-1800-performance",
+          "start": "18:00",
+          "end": "18:15",
+          "time": "6:00 PM – 6:15 PM",
+          "kind": "performance",
+          "title": "Gala opens: special performance by Santiago Cumplido Del Castillo",
+          "speakers": [
+            {
+              "name": "Santiago Cumplido Del Castillo",
+              "slug": null
+            }
+          ],
+          "description": "The Gala opens with a special return performance by Santiago Cumplido Del Castillo."
+        }
+      ]
+    }
+  ]
+}

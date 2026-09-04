@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { SpeakerPageContent } from "@/components/speakers/SpeakerPageContent";
-import { getAllSpeakerSlugs, getSpeakerBySlug, getSpeakers } from "@/lib/content";
+import { getAllSpeakerSlugs, getSpeakerAgendaAppearances, getSpeakerBySlug, getSpeakers } from "@/lib/content";
 import { BRAND_NAME, SOCIAL_PREVIEW_HEIGHT, SOCIAL_PREVIEW_WIDTH } from "@/lib/brand-constants";
 import { pickAlsoSpeakingSpeakers } from "@/lib/speakers-navigation";
 
@@ -58,12 +58,14 @@ export default async function SpeakerPage({ params }: PageProps) {
 
   const speakers = getSpeakers();
   const alsoSpeakingFallback = pickAlsoSpeakingSpeakers(speakers, speaker.slug, 4);
+  const appearances = getSpeakerAgendaAppearances(speaker.slug);
 
   return (
     <SpeakerPageContent
       speaker={speaker}
       speakers={speakers}
       alsoSpeakingFallback={alsoSpeakingFallback}
+      appearances={appearances}
     />
   );
 }

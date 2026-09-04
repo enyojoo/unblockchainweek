@@ -4,9 +4,10 @@ import { TICKETS_ANCHOR } from "@/lib/brand-constants";
 import { Globe } from "lucide-react";
 import { TweetEmbed } from "@/components/speakers/TweetEmbed";
 import { SpeakerBackButton } from "@/components/speakers/SpeakerBackButton";
+import { SpeakerSessions } from "@/components/speakers/SpeakerSessions";
 import { AlsoSpeaking } from "@/components/speakers/AlsoSpeaking";
 import { emphasizeBrand } from "@/components/ui/BrandName";
-import type { Speaker } from "@/lib/types";
+import type { Speaker, SpeakerAgendaAppearance } from "@/lib/types";
 
 function XIcon({ className }: { className?: string }) {
   return (
@@ -81,19 +82,21 @@ export function SpeakerPageContent({
   speaker,
   speakers,
   alsoSpeakingFallback,
+  appearances,
 }: {
   speaker: Speaker;
   speakers: Speaker[];
   alsoSpeakingFallback: Speaker[];
+  appearances: SpeakerAgendaAppearance[];
 }) {
   return (
-    <section className="section-dark pb-16 pt-6 sm:pb-20 sm:pt-8">
+    <section className="section-dark overflow-x-clip pb-16 pt-6 sm:pb-20 sm:pt-8">
       <div className="mx-auto max-w-6xl px-4 lg:px-8">
-        <div className="overflow-hidden rounded-3xl border border-white/10 bg-white/[0.03] p-6 sm:p-10 lg:p-12">
+        <div className="overflow-hidden rounded-3xl border border-white/10 bg-white/[0.03] p-5 sm:p-10 lg:p-12">
           <SpeakerBackButton />
 
-          <div className="mt-6 grid gap-10 lg:grid-cols-12 lg:gap-12 lg:items-start">
-              <div className="lg:col-span-5">
+          <div className="mt-6 grid gap-8 lg:grid-cols-12 lg:gap-12 lg:items-start">
+              <div className="min-w-0 lg:col-span-5">
                 <div className="relative aspect-square overflow-hidden rounded-3xl border-2 border-un-blue/30 shadow-2xl">
                   <Image
                     src={speaker.photo || "/logo.png"}
@@ -107,9 +110,9 @@ export function SpeakerPageContent({
                 </div>
               </div>
 
-              <div className="lg:col-span-7">
-                <h1 className="heading-font text-4xl sm:text-5xl">{speaker.name}</h1>
-                <p className="mt-4 text-xl font-medium leading-relaxed text-un-blue sm:text-2xl">
+              <div className="min-w-0 lg:col-span-7">
+                <h1 className="heading-font break-words text-3xl sm:text-5xl">{speaker.name}</h1>
+                <p className="mt-4 text-lg font-medium leading-relaxed text-un-blue sm:text-2xl">
                   {speaker.title}
                 </p>
                 {speaker.subtitle && (
@@ -139,7 +142,7 @@ export function SpeakerPageContent({
                   )}
                   <Link
                     href={TICKETS_ANCHOR}
-                    className="inline-flex items-center justify-center rounded-full bg-un-blue px-7 py-3 text-sm font-bold uppercase tracking-wider text-white transition hover:bg-un-blue/90"
+                    className="inline-flex w-full items-center justify-center rounded-full bg-un-blue px-7 py-3 text-sm font-bold uppercase tracking-wider text-white transition hover:bg-un-blue/90 sm:w-auto"
                   >
                     Secure your ticket
                   </Link>
@@ -147,9 +150,9 @@ export function SpeakerPageContent({
               </div>
             </div>
 
-            <div className="mt-12 border-t border-white/10 pt-12">
+            <div className="mt-10 border-t border-white/10 pt-10 sm:mt-12 sm:pt-12">
               {speaker.headline && (
-                <h2 className="heading-font mb-8 text-3xl sm:text-4xl">{speaker.headline}</h2>
+                <h2 className="heading-font mb-6 break-words text-2xl sm:mb-8 sm:text-4xl">{speaker.headline}</h2>
               )}
 
               <div className="max-w-4xl space-y-6">
@@ -160,17 +163,19 @@ export function SpeakerPageContent({
                 ))}
               </div>
 
+              <SpeakerSessions appearances={appearances} />
+
               {(speaker.expertise.length > 0 ||
                 (speaker.signatureMoves && speaker.signatureMoves.length > 0) ||
                 speaker.quote) && (
-                <div className="mt-12 grid gap-6 md:grid-cols-3">
+                <div className="mt-10 grid gap-5 sm:mt-12 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
                   {speaker.expertise.length > 0 && (
                     <FeatureCard title="Expertise" accent="blue">
                       <ul className="space-y-3 text-sm text-white/80 sm:text-base">
                         {speaker.expertise.map((item) => (
                           <li key={item} className="flex gap-2">
-                            <span className="text-un-blue">•</span>
-                            <span>{item}</span>
+                            <span className="shrink-0 text-un-blue">•</span>
+                            <span className="min-w-0 break-words">{item}</span>
                           </li>
                         ))}
                       </ul>
@@ -182,8 +187,8 @@ export function SpeakerPageContent({
                       <ul className="space-y-3 text-sm text-white/80 sm:text-base">
                         {speaker.signatureMoves.map((item) => (
                           <li key={item} className="flex gap-2">
-                            <span className="text-fashion">•</span>
-                            <span>{item}</span>
+                            <span className="shrink-0 text-fashion">•</span>
+                            <span className="min-w-0 break-words">{item}</span>
                           </li>
                         ))}
                       </ul>
@@ -192,7 +197,7 @@ export function SpeakerPageContent({
 
                   {speaker.quote && speaker.quote.length > 10 && !speaker.quote.includes("charset") && (
                     <FeatureCard title="Quote" accent="quote">
-                      <blockquote className="text-base italic leading-relaxed text-white/90 sm:text-lg">
+                      <blockquote className="break-words text-base italic leading-relaxed text-white/90 sm:text-lg">
                         &ldquo;{speaker.quote}&rdquo;
                       </blockquote>
                       <p className="mt-6 font-semibold text-un-blue">– {speaker.name}</p>
@@ -202,8 +207,8 @@ export function SpeakerPageContent({
               )}
 
               {speaker.performance && (
-                <div className="mt-12 border-t border-white/10 pt-12">
-                  <h2 className="heading-font mb-8 text-center text-2xl sm:text-3xl">
+                <div className="mt-10 border-t border-white/10 pt-10 sm:mt-12 sm:pt-12">
+                  <h2 className="heading-font mb-6 break-words text-center text-xl sm:mb-8 sm:text-3xl">
                     🎤 {speaker.performance.title}
                   </h2>
                   <TweetEmbed tweetUrl={speaker.performance.tweetUrl} />
@@ -217,10 +222,10 @@ export function SpeakerPageContent({
             fallbackSpeakers={alsoSpeakingFallback}
           />
 
-          <div className="mt-10 flex justify-center">
+          <div className="mt-10 flex justify-center px-1">
             <Link
               href={TICKETS_ANCHOR}
-              className="inline-flex items-center justify-center rounded-full bg-un-blue px-8 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition hover:bg-un-blue/90"
+              className="inline-flex w-full max-w-sm items-center justify-center rounded-full bg-un-blue px-8 py-3.5 text-sm font-bold uppercase tracking-wider text-white transition hover:bg-un-blue/90 sm:w-auto sm:max-w-none"
             >
               Secure your ticket
             </Link>

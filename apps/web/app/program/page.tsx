@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { ProgramSchedule } from "@/components/program/ProgramSchedule";
 import { TicketPricing } from "@/components/home/TicketPricing";
 import { CTASection } from "@/components/ui/CTASection";
-import { getProgramSchedule } from "@/lib/content";
+import { getProgramAgenda } from "@/lib/content";
 import { BRAND_NAME, SOCIAL_PREVIEW_HEIGHT, SOCIAL_PREVIEW_WIDTH, TICKETS_SECTION_HASH } from "@/lib/brand-constants";
 
 const description = `${BRAND_NAME} 2026 official events schedule – September 10–19 in New York City during UNGA week.`;
@@ -34,11 +34,11 @@ export const metadata: Metadata = {
 };
 
 export default function ProgramPage() {
-  const { intro, events, conference } = getProgramSchedule();
+  const agenda = getProgramAgenda();
 
   return (
     <>
-      <ProgramSchedule intro={intro} events={events} conference={conference} />
+      <ProgramSchedule agenda={agenda} />
       <TicketPricing />
       <CTASection ticketsHref={TICKETS_SECTION_HASH} />
     </>

@@ -6,6 +6,7 @@ import teamData from "@/content/team.json";
 import themesData from "@/content/themes.json";
 import conferenceData from "@/content/conference.json";
 import programData from "@/content/program.json";
+import agendaData from "@/content/agenda.json";
 import sponsorshipData from "@/content/sponsorship.json";
 import aboutData from "@/content/about.json";
 import pricingData from "@/content/pricing.json";
@@ -14,7 +15,6 @@ import mediaPartnersData from "@/content/media-partners.json";
 import partnerPagesData from "@/content/partner-pages.json";
 import type {
   AboutContent,
-  AgendaDay,
   MediaPartner,
   PartnerPage,
   PricingTier,
@@ -32,7 +32,9 @@ import type {
   Theme,
   ThemePillar,
   BlogPost,
+  ProgramAgenda,
   ProgramSchedule,
+  SpeakerAgendaAppearance,
 } from "@/lib/types";
 import { decodeHtml, replaceLegacyBrandName, sanitizeSpeakerText, stripSurroundingQuotes } from "@/lib/html";
 import { buildBlogExcerpt } from "@/lib/blog-excerpt";
@@ -101,12 +103,61 @@ export function getThemes(): ThemePillar[] {
   return themesData as ThemePillar[];
 }
 
-export function getConferenceAgenda(): AgendaDay[] {
-  return conferenceData as AgendaDay[];
+export function getConferenceAgenda() {
+  return conferenceData as {
+    label: string;
+    date: string;
+    sessions: { title: string; time: string }[];
+  }[];
 }
 
 export function getProgramSchedule(): ProgramSchedule {
   return programData as ProgramSchedule;
+}
+
+export function getProgramAgenda(): ProgramAgenda {
+  const agenda = agendaData as ProgramAgenda;
+  const speakersBySlug = new Map(getSpeakers().map((speaker) => [speaker.slug, speaker]));
+
+  return {
+    ...agenda,
+    days: agenda.days.map((day) => ({
+      ...day,
+      sessions: day.sessions.map((session) => ({
+        ...session,
+        speakers: session.speakers.map((speaker) => ({
+          ...speaker,
+          photo: speaker.slug ? speakersBySlug.get(speaker.slug)?.photo ?? null : null,
+        })),
+      })),
+    })),
+  };
+}
+
+export function getSpeakerAgendaAppearances(slug: string): SpeakerAgendaAppearance[] {
+  const agenda = getProgramAgenda();
+  const appearances: SpeakerAgendaAppearance[] = [];
+
+  for (const day of agenda.days) {
+    for (const session of day.sessions) {
+      if (!session.speakers.some((speaker) => speaker.slug === slug)) continue;
+      appearances.push({
+        sessionId: session.id,
+        dayId: day.id,
+        dayLabel: day.label,
+        dateLabel: day.dateLabel,
+        dayShort: day.dayShort,
+        venue: day.venue,
+        start: session.start,
+        end: session.end,
+        kind: session.kind,
+        title: session.title,
+        description: session.description,
+      });
+    }
+  }
+
+  return appearances;
 }
 
 export function getSponsorshipHero(): SponsorshipHero {

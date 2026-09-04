@@ -48,17 +48,6 @@ export interface ThemePillar {
   icon: string;
 }
 
-export interface AgendaSession {
-  title: string;
-  time: string;
-}
-
-export interface AgendaDay {
-  label: string;
-  date: string;
-  sessions: AgendaSession[];
-}
-
 export interface ProgramEvent {
   id: string;
   day: string;
@@ -90,6 +79,54 @@ export interface ProgramSchedule {
   intro: string;
   events: ProgramEvent[];
   conference: ProgramConference;
+}
+
+export interface ProgramAgendaSpeaker {
+  name: string;
+  slug?: string | null;
+  photo?: string | null;
+}
+
+export interface ProgramAgendaSession {
+  id: string;
+  start: string;
+  end: string;
+  time: string;
+  kind: string;
+  title: string;
+  description?: string;
+  speakers: ProgramAgendaSpeaker[];
+}
+
+export interface ProgramAgendaDay {
+  id: string;
+  label: string;
+  hours: string;
+  venue: string;
+  theme: string;
+  dateLabel: string;
+  dayShort: string;
+  sessions: ProgramAgendaSession[];
+}
+
+export interface ProgramAgenda {
+  title: string;
+  summary: string;
+  days: ProgramAgendaDay[];
+}
+
+export interface SpeakerAgendaAppearance {
+  sessionId: string;
+  dayId: string;
+  dayLabel: string;
+  dateLabel: string;
+  dayShort: string;
+  venue: string;
+  start: string;
+  end: string;
+  kind: string;
+  title: string;
+  description?: string;
 }
 
 export interface PricingTier {
