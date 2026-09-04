@@ -886,12 +886,27 @@
   },
   {
     "source": "/speakers/mr-griffin",
-    "destination": "/mr-griffin",
+    "destination": "/marcus-griffin",
+    "permanent": true
+  },
+  {
+    "source": "/mr-griffin",
+    "destination": "/marcus-griffin",
     "permanent": true
   },
   {
     "source": "/mr-griffin-2",
-    "destination": "/mr-griffin",
+    "destination": "/marcus-griffin",
+    "permanent": true
+  },
+  {
+    "source": "/speakers/marcus-griffin",
+    "destination": "/marcus-griffin",
+    "permanent": true
+  },
+  {
+    "source": "/marcus-griffin-2",
+    "destination": "/marcus-griffin",
     "permanent": true
   },
   {

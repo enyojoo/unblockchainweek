@@ -1896,11 +1896,11 @@
     }
   },
   {
-    "slug": "mr-griffin",
-    "name": "Mr. Griffin",
+    "slug": "marcus-griffin",
+    "name": "Marcus Griffin",
     "title": "Founder",
     "company": "Scionic – Digital Asset Legacy",
-    "bio": "Mr. Griffin is the Founder of Scionic – Digital Asset Legacy. He is dedicated to solving one of the most critical challenges of the digital age: ensuring that cryptocurrency, NFTs, and other blockchain-based assets can be securely and reliably passed on to the next generation.\n\nAs digital assets become a significant portion of personal and family wealth, traditional inheritance systems struggle with private keys, seed phrases, and irreversible loss. Scionic focuses on creating practical, secure frameworks for digital asset legacy planning — combining blockchain technology, multi-party computation, verifiable credentials, and legal structures to enable controlled, trust-minimized transfer of digital wealth. At Blockchain Week - UNGA Edition, Mr. Griffin shares insights on building lasting digital legacies and preventing the permanent loss of assets that has already claimed billions in value across the crypto ecosystem.",
+    "bio": "Marcus Griffin is the Founder of Scionic – Digital Asset Legacy. He is dedicated to solving one of the most critical challenges of the digital age: ensuring that cryptocurrency, NFTs, and other blockchain-based assets can be securely and reliably passed on to the next generation.\n\nAs digital assets become a significant portion of personal and family wealth, traditional inheritance systems struggle with private keys, seed phrases, and irreversible loss. Scionic focuses on creating practical, secure frameworks for digital asset legacy planning — combining blockchain technology, multi-party computation, verifiable credentials, and legal structures to enable controlled, trust-minimized transfer of digital wealth. At Blockchain Week - UNGA Edition, Marcus Griffin shares insights on building lasting digital legacies and preventing the permanent loss of assets that has already claimed billions in value across the crypto ecosystem.",
     "expertise": [
       "Digital Asset Legacy Planning",
       "Crypto Inheritance Solutions",
@@ -1908,7 +1908,7 @@
       "Intergenerational Wealth Transfer",
       "Blockchain-Enabled Estate Structures"
     ],
-    "photo": "/speakers/mr-griffin.jpg",
+    "photo": "/speakers/marcus-griffin.jpg",
     "themes": [
       "identity"
     ],
@@ -1925,7 +1925,7 @@
     ],
     "quote": "“Digital assets without a legacy plan are not truly owned — they are only temporarily controlled. True ownership includes the ability to pass value securely to the next generation.”",
     "social": {
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Griffin%20Scionic"
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marcus%20Griffin%20Scionic"
     }
   },
   {
