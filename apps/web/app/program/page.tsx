@@ -5,14 +5,14 @@ import { CTASection } from "@/components/ui/CTASection";
 import { getProgramAgenda } from "@/lib/content";
 import { BRAND_NAME, SOCIAL_PREVIEW_HEIGHT, SOCIAL_PREVIEW_WIDTH, TICKETS_SECTION_HASH } from "@/lib/brand-constants";
 
-const description = `${BRAND_NAME} 2026 official events schedule – September 10–19 in New York City during UNGA week.`;
+const description = `${BRAND_NAME} 2026 confirmed programming – timed run of show for CryptoMondays, Liberland Meetup, the Hard Rock main stage, BitcoinPalooza, and the Washington Elite Investment Summit & Gala.`;
 
 export const metadata: Metadata = {
-  title: "Official Program",
+  title: "Confirmed Programming",
   description,
   alternates: { canonical: "/program" },
   openGraph: {
-    title: "Official Events Schedule",
+    title: "Confirmed Programming",
     description,
     url: "/program",
     type: "website",
@@ -21,13 +21,13 @@ export const metadata: Metadata = {
         url: "/program/opengraph-image",
         width: SOCIAL_PREVIEW_WIDTH,
         height: SOCIAL_PREVIEW_HEIGHT,
-        alt: "Official Events Schedule for Blockchain Week - UNGA Edition 2026",
+        alt: "Confirmed Programming for Blockchain Week - UNGA Edition 2026",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Official Events Schedule",
+    title: "Confirmed Programming",
     description,
     images: ["/program/opengraph-image"],
   },
