@@ -3290,5 +3290,44 @@
       "linkedin": "https://www.linkedin.com/in/melody-m-fogarty-8103514",
       "website": "https://dakotagrayllc.com"
     }
+  },
+  {
+    "slug": "vaibhavv-ali",
+    "name": "Vaibhavv Ali",
+    "title": "Founder & Host",
+    "company": "Cryptonite UAE · Aura8",
+    "bio": "Vaibhavv Ali is the founder and editor of Cryptonite UAE (cryptonite.ae), Dubai's institutional Web3 intelligence platform and media house, and the host of Aura8 – a live series broadcasting every weekday at 8 PM GST on Binance Square with VCs, funds, founders, and community leaders. His editorial focus sits where capital meets regulation: virtual-asset rules under VARA, ADGM, and the UAE Central Bank, real-world asset tokenization, stablecoins, and agentic AI in finance.\n\nA professional master of ceremonies since 2006, Vaibhavv spent nearly two decades on stage before bringing that craft to Web3 – first as a brand ambassador for BitOasis across the UAE and GCC, then as a growth and community operator who has built 100,000+ member communities and grown to 109K followers with 3.5M views on Binance Square. He has led growth for Mint Chain, run multi-country event series as Director of Event Management at Proof of Collabs, and hosted or partnered on 140+ industry events including Token2049 Dubai, Paris Blockchain Week, GITEX GLOBAL, World Token Summit, and Blockchain Life.\n\nThrough Cryptonite UAE and his Roadcast Live channel, he turns institutional signal into plain language for the people building on it – covering markets, MENA regulation, and the 2026 institutional Web3 and AI cycle with human-edited, source-linked reporting.",
+    "expertise": [
+      "Institutional Web3 Intelligence",
+      "RWA Tokenization & Stablecoins",
+      "Agentic AI in Finance",
+      "MENA Virtual-Asset Regulation (VARA, ADGM)",
+      "Web3 Growth & Community Building",
+      "Live Media, Hosting & Event Strategy"
+    ],
+    "photo": "/speakers/vaibhavv-ali.jpg",
+    "themes": [
+      "ai",
+      "investment",
+      "stablecoin"
+    ],
+    "featured": false,
+    "headline": "Turning Dubai's Web3 Signal Into Intelligence Institutions Can Act On",
+    "tagline": "Founder & Host • Cryptonite UAE • Aura8",
+    "subtitle": "Cryptonite UAE · Aura8\nWeb3 Intelligence · RWA & Stablecoins · Live Media",
+    "signatureMoves": [
+      "Founder & Editor – Cryptonite UAE (cryptonite.ae)",
+      "Host – Aura8 Live, every weekday at 8 PM GST on Binance Square",
+      "109K followers and 3.5M views on Binance Square",
+      "100,000+ community members built across Web3 projects",
+      "140+ event partnerships – Token2049 Dubai, Paris Blockchain Week, GITEX GLOBAL",
+      "Master of Ceremonies since 2006 · Creator of Roadcast Live"
+    ],
+    "quote": "“Grants don't reveal product-market fit – they hide it. The real number is what's left standing the month the money stops.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vaibhavvali",
+      "twitter": "https://x.com/vaibhavvali",
+      "website": "https://cryptonite.ae"
+    }
   }
 ]

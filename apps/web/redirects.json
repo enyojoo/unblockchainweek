@@ -1833,5 +1833,25 @@
     "source": "/nithya-ramachandran",
     "destination": "/speakers",
     "permanent": true
+  },
+  {
+    "source": "/speakers/vaibhavv-ali",
+    "destination": "/vaibhavv-ali",
+    "permanent": true
+  },
+  {
+    "source": "/vaibhavv-ali-2",
+    "destination": "/vaibhavv-ali",
+    "permanent": true
+  },
+  {
+    "source": "/vaibhav-ali",
+    "destination": "/vaibhavv-ali",
+    "permanent": true
+  },
+  {
+    "source": "/speakers/vaibhav-ali",
+    "destination": "/vaibhavv-ali",
+    "permanent": true
   }
 ]
