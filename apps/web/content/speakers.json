@@ -3399,5 +3399,38 @@
       "linkedin": "https://www.linkedin.com/in/nick-spanos/",
       "website": "https://zap.org"
     }
+  },
+  {
+    "slug": "corey-kovnats",
+    "name": "Corey Kovnats",
+    "title": "Founder",
+    "company": "Infrastructure for Play",
+    "bio": "Corey Kovnats is the Founder of Gatsby – Infrastructure for Play. He is building a multi-game platform and publishing stack that lets studios create compliant, real-world-backed digital economies so players can finally own, trade, and extract lasting value from the items they earn.\n\nFor decades, in-game gold and items have been locked inside closed ecosystems. Players grind for value that disappears the moment they log off or want to leave a title. Gatsby changes that by enabling studios to link in-game assets to real exposure – whether stablecoins or physical gold – creating transparent, player-first economies without speculative tokens or grey markets. With partnerships including Immutable and Polygon, and titles such as Ninja Chess and the upcoming flagship War of Art, Corey is focused on making blockchain power invisible to everyday players while delivering ownership that feels natural and trustworthy. At Blockchain Week - UNGA Edition he shares how infrastructure for play can bridge traditional gaming and on-chain value in a way that studios and players both embrace.",
+    "expertise": [
+      "Infrastructure for Play & Game Economies",
+      "Stablecoin & Real-Asset Backed Assets",
+      "Player Ownership & Cross-Title Inventory",
+      "Compliant Web3 Gaming Platforms",
+      "Publishing Stack for Studios"
+    ],
+    "photo": "/speakers/corey-kovnats.jpg",
+    "themes": [
+      "stablecoin"
+    ],
+    "featured": false,
+    "headline": "Building the Infrastructure That Makes Digital Economies in Games as Reliable as the Real World",
+    "tagline": "Founder • Gatsby | Infrastructure for Play",
+    "subtitle": "Gatsby | Infrastructure for Play\nStablecoin & Real-Asset Backed Gaming Economies",
+    "signatureMoves": [
+      "Founder – Gatsby (Infrastructure for Play)",
+      "Building Gold- & Stablecoin-Backed Economies",
+      "Partnerships with Immutable & Polygon",
+      "Titles: Ninja Chess & War of Art",
+      "Making Blockchain Invisible to Players"
+    ],
+    "quote": "“Players should not have to care that a game is powered by blockchain. They should simply enjoy great games with clear rewards and a stable economy they can actually take with them.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/coreykovnats/"
+    }
   }
 ]

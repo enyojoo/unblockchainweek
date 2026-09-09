@@ -306,12 +306,12 @@
   },
   {
     "source": "/speakers/corey-kovnats",
-    "destination": "/speakers",
+    "destination": "/corey-kovnats",
     "permanent": true
   },
   {
     "source": "/corey-kovnats-2",
-    "destination": "/speakers",
+    "destination": "/corey-kovnats",
     "permanent": true
   },
   {
@@ -1626,11 +1626,6 @@
   },
   {
     "source": "/hunter-rogers",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
-    "source": "/corey-kovnats",
     "destination": "/speakers",
     "permanent": true
   },
