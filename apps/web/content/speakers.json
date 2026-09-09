@@ -3329,5 +3329,75 @@
       "twitter": "https://x.com/vaibhavvali",
       "website": "https://cryptonite.ae"
     }
+  },
+  {
+    "slug": "joseph-caturay",
+    "name": "Joseph Caturay",
+    "title": "Founder",
+    "company": "Stablecoins & RWA in Gaming",
+    "bio": "Joseph (Joey) Caturay is the Founder of Gatsby Games, pioneering the integration of stablecoins and real-world assets (RWA) into gaming. His platform creates gold-backed, USD-stable in-game economies so players can buy, sell, and trade items with real, non-volatile value instead of speculative tokens – delivering unified wallets, shared marketplaces, and sustainable microtransaction rails across titles.\n\nThrough Gatsby, Joey is developing franchises such as Pocket Ninja and War of Art that settle on a gold-backed stablecoin layer, ensuring players retain tangible economic upside. His work focuses on regulated fintech infrastructure that mobilizes stablecoins and RWAs inside consumer experiences, starting with gaming and designed to scale across verticals. By replacing volatility with gold- and USD-backed settlement, he is redefining how blockchain delivers lasting value in digital entertainment.",
+    "expertise": [
+      "Stablecoins in Gaming Economies",
+      "Gold-Backed RWA Tokenization",
+      "In-Game Microtransactions & Marketplaces",
+      "Unified Cross-Game Wallets",
+      "Sustainable Web3 Player Value"
+    ],
+    "photo": "/speakers/joseph-caturay.png",
+    "themes": [
+      "stablecoin"
+    ],
+    "featured": false,
+    "headline": "Building Real-Value Gaming Economies with Stablecoins & RWA",
+    "tagline": "Founder • Stablecoins & RWA in Gaming",
+    "subtitle": "Gatsby Games\nStablecoins & RWA in Gaming",
+    "signatureMoves": [
+      "Founder – Gatsby Games",
+      "Gold-Backed Stablecoin Settlement",
+      "Pocket Ninja & War of Art Universes",
+      "RWA Infrastructure for Consumer Apps",
+      "Real-Value Player Economies"
+    ],
+    "quote": "“When in-game currencies are backed by real-world assets like gold, players stop gambling on tokens and start owning lasting value.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/joeycaturay/"
+    }
+  },
+  {
+    "slug": "nick-spanos",
+    "name": "Nick Spanos",
+    "title": "Founder",
+    "company": "Bitcoin Center NYC · Blockchain Technologies Corp.",
+    "bio": "Nick Spanos is a Bitcoin and blockchain pioneer best known for founding Bitcoin Center NYC in 2013 – the world's first physical cryptocurrency trading floor, opened directly across from the New York Stock Exchange and featured in the Netflix documentary Banking on Bitcoin. He is Founder and Chairman of Blockchain Center (New York and Miami), CEO of Blockchain Technologies Corp., and co-founder of Zap Protocol, an oracle and bonding-curve platform that lets real-world data and events trigger smart contracts.\n\nA granted inventor of multi-branched blockchain and blockchain voting (VoteWatcher), Nick has spent more than three decades at the intersection of technology and politics – from early internet ventures such as GetaRoom.com to voter-contact work and Federal Reserve accountability campaigns. He remains a sought-after speaker on Bitcoin, decentralization, and the infrastructure that turns crypto from a trading venue into civic and financial rails.",
+    "expertise": [
+      "Bitcoin & Early Crypto Infrastructure",
+      "Blockchain Voting & Multi-Branched Ledgers",
+      "Decentralized Oracles & Smart Contracts",
+      "Bitcoin Center NYC & Global Blockchain Centers",
+      "Crypto Policy & Decentralization Advocacy"
+    ],
+    "photo": "/speakers/nick-spanos.jpg",
+    "themes": [
+      "bitcoin",
+      "policy",
+      "identity"
+    ],
+    "featured": false,
+    "headline": "Building the First Physical Rails for Bitcoin – and the Civic Layer That Followed",
+    "tagline": "Founder • Bitcoin Center NYC • Blockchain Technologies Corp.",
+    "subtitle": "Bitcoin Center NYC · Blockchain Technologies Corp.\nBitcoin · Blockchain Voting · Oracles",
+    "signatureMoves": [
+      "Founder – Bitcoin Center NYC (2013), first crypto trading floor across from the NYSE",
+      "Featured in Netflix's Banking on Bitcoin",
+      "CEO – Blockchain Technologies Corp. (VoteWatcher blockchain voting)",
+      "Co-Founder – Zap Protocol (oracles & bonding curves)",
+      "Founder/Chairman – Blockchain Center New York & Miami",
+      "Granted patents – multi-branched blockchain and blockchain voting"
+    ],
+    "quote": "“Bitcoin clicked because for the first time we had a weapon against centralization that actually worked.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nick-spanos/",
+      "website": "https://zap.org"
+    }
   }
 ]

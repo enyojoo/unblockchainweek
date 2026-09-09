@@ -666,12 +666,12 @@
   },
   {
     "source": "/speakers/joseph-caturay",
-    "destination": "/speakers",
+    "destination": "/joseph-caturay",
     "permanent": true
   },
   {
     "source": "/joseph-caturay-2",
-    "destination": "/speakers",
+    "destination": "/joseph-caturay",
     "permanent": true
   },
   {
@@ -1720,11 +1720,6 @@
     "permanent": true
   },
   {
-    "source": "/joseph-caturay",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
     "source": "/eric-henry",
     "destination": "/speakers",
     "permanent": true
@@ -1852,6 +1847,16 @@
   {
     "source": "/speakers/vaibhav-ali",
     "destination": "/vaibhavv-ali",
+    "permanent": true
+  },
+  {
+    "source": "/speakers/nick-spanos",
+    "destination": "/nick-spanos",
+    "permanent": true
+  },
+  {
+    "source": "/nick-spanos-2",
+    "destination": "/nick-spanos",
     "permanent": true
   }
 ]
