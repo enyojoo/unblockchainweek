@@ -722,33 +722,6 @@
           "end": "11:10",
           "time": "10:40 AM – 11:10 AM",
           "kind": "panel",
-          "title": "The Trust Layer: Why AI Without Blockchain Is the New Wild West",
-          "speakers": [
-            {
-              "name": "Cat Bonar",
-              "slug": "cat-bonar"
-            },
-            {
-              "name": "Mihaela Ulieru",
-              "slug": "mihaela-ulieru"
-            },
-            {
-              "name": "James Anthony Wolff",
-              "slug": "james-anthony-wolff"
-            },
-            {
-              "name": "Carsten Stocker",
-              "slug": "carsten-stocker"
-            }
-          ],
-          "description": "AI without verifiable infrastructure is a black box with planetary stakes. This panel makes the case for blockchain as the trust layer–provenance, accountability, and audit trails–so autonomous systems can be governed, not just deployed."
-        },
-        {
-          "id": "thu-1110-panel",
-          "start": "11:10",
-          "end": "11:40",
-          "time": "11:10 AM – 11:40 AM",
-          "kind": "panel",
           "title": "From Intent to Reasoning: Agents, Privacy & Regenerative Infrastructure",
           "speakers": [
             {
@@ -769,6 +742,33 @@
             }
           ],
           "description": "From user intent to agent reasoning, the next stack must balance autonomy with privacy and shared infrastructure. Speakers unpack agents, regenerative systems, and the coordination layers that let machines act on our behalf without surrendering user control."
+        },
+        {
+          "id": "thu-1110-panel",
+          "start": "11:10",
+          "end": "11:40",
+          "time": "11:10 AM – 11:40 AM",
+          "kind": "panel",
+          "title": "The Trust Layer: Why AI Without Blockchain Is the New Wild West",
+          "speakers": [
+            {
+              "name": "Cat Bonar",
+              "slug": "cat-bonar"
+            },
+            {
+              "name": "Mihaela Ulieru",
+              "slug": "mihaela-ulieru"
+            },
+            {
+              "name": "James Anthony Wolff",
+              "slug": "james-anthony-wolff"
+            },
+            {
+              "name": "Carsten Stocker",
+              "slug": "carsten-stocker"
+            }
+          ],
+          "description": "AI without verifiable infrastructure is a black box with planetary stakes. This panel makes the case for blockchain as the trust layer–provenance, accountability, and audit trails–so autonomous systems can be governed, not just deployed."
         },
         {
           "id": "thu-1140-panel",
@@ -847,30 +847,26 @@
           "end": "13:55",
           "time": "1:25 PM – 1:55 PM",
           "kind": "panel",
-          "title": "The Other Half of Genius: Why Financial Access Is the Unlock for the Next Billion Innovators",
+          "title": "The Real Estate Revolution: How Tokenization is Democratizing Global Property Markets",
           "speakers": [
             {
-              "name": "Christian Levan",
-              "slug": "christian-levan"
+              "name": "Marco Kowalewski",
+              "slug": "marco-kowalewski"
             },
             {
-              "name": "Enyo Sam",
-              "slug": "enyo-sam"
+              "name": "Rushil Kalghatkar",
+              "slug": null
             },
             {
-              "name": "Elliot David",
-              "slug": "elliot-david"
+              "name": "Bruno Beranger",
+              "slug": null
             },
             {
-              "name": "Kesem Frank",
-              "slug": "kesem-frank"
-            },
-            {
-              "name": "Nicole Nguyen",
-              "slug": "nicole-nguyen"
+              "name": "Peter Merc",
+              "slug": null
             }
           ],
-          "description": "Closing the Global Dollar arc: financial access as the unlock for the next billion innovators. Panelists connect rails, incubation, and regional ecosystems–showing how money movement and opportunity rise together."
+          "description": "Property markets are opening to fractional ownership and cross-border participation through tokenization. This panel examines how real estate rails can democratize access while meeting the legal and operational bar investors demand."
         },
         {
           "id": "thu-1355-panel",
@@ -941,26 +937,30 @@
           "end": "15:35",
           "time": "3:05 PM – 3:35 PM",
           "kind": "panel",
-          "title": "The Real Estate Revolution: How Tokenization is Democratizing Global Property Markets",
+          "title": "The Other Half of Genius: Why Financial Access Is the Unlock for the Next Billion Innovators",
           "speakers": [
             {
-              "name": "Marco Kowalewski",
-              "slug": "marco-kowalewski"
+              "name": "Christian Levan",
+              "slug": "christian-levan"
             },
             {
-              "name": "Rushil Kalghatkar",
-              "slug": null
+              "name": "Enyo Sam",
+              "slug": "enyo-sam"
             },
             {
-              "name": "Bruno Beranger",
-              "slug": null
+              "name": "Elliot David",
+              "slug": "elliot-david"
             },
             {
-              "name": "Peter Merc",
-              "slug": null
+              "name": "Kesem Frank",
+              "slug": "kesem-frank"
+            },
+            {
+              "name": "Nicole Nguyen",
+              "slug": "nicole-nguyen"
             }
           ],
-          "description": "Property markets are opening to fractional ownership and cross-border participation through tokenization. This panel examines how real estate rails can democratize access while meeting the legal and operational bar investors demand."
+          "description": "The Global Dollar series closes on the question of access–who gets to build once money finally moves. Panelists connect rails, incubation, and regional ecosystems, showing how money movement and opportunity rise together."
         },
         {
           "id": "thu-1535-panel",
