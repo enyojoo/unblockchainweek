@@ -244,10 +244,12 @@ function DayPanel({ day }: { day: ProgramAgendaDay }) {
         </div>
         <div className="min-w-0 shrink-0 text-left sm:max-w-xs sm:text-right">
           <p className="font-variant-numeric text-sm font-medium tabular-nums text-white/80">{day.hours}</p>
-          <p className="mt-1.5 inline-flex items-start gap-1.5 text-xs leading-snug text-white/45 sm:justify-end">
-            <MapPin className="mt-0.5 h-3.5 w-3.5 shrink-0 text-un-blue/80" />
-            <span className="min-w-0 break-words">{day.venue}</span>
-          </p>
+          {day.venue ? (
+            <p className="mt-1.5 inline-flex items-start gap-1.5 text-xs leading-snug text-white/45 sm:justify-end">
+              <MapPin className="mt-0.5 h-3.5 w-3.5 shrink-0 text-un-blue/80" />
+              <span className="min-w-0 break-words">{day.venue}</span>
+            </p>
+          ) : null}
         </div>
       </div>
 

@@ -41,5 +41,12 @@
     "role": "Engineering & Marketing Lead",
     "bio": "Founder & CTO of Easner, building stablecoin infrastructure for emerging markets with $2M+ in real-world payments processed. Leads product engineering and marketing for Blockchain Week - UNGA Edition, shaping the digital experience and connecting builders, audiences, and global communities.",
     "photo": "/speakers/enyo-sam.jpg"
+  },
+  {
+    "name": "Alberto F. Rosales",
+    "role": "Director of On-Site Media",
+    "bio": "Owns the live visual story of Blockchain Week - UNGA Edition — capturing stages, speakers, and moments as they happen so the week looks as sharp as it feels. From floor coverage to the footage that travels after the lights go down, he turns the room into media the world can share.",
+    "photo": "/team/alberto-f-rosales.jpg",
+    "photoPosition": "center 20%"
   }
 ]

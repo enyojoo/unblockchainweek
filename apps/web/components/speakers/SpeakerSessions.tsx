@@ -72,10 +72,12 @@ function AppearanceCard({ appearance }: { appearance: SpeakerAgendaAppearance })
     >
       <div className="flex flex-col gap-1.5 sm:flex-row sm:flex-wrap sm:items-center sm:gap-x-3 sm:gap-y-1">
         <p className="text-xs font-semibold uppercase tracking-[0.16em] text-gold">{dayLabel}</p>
-        <p className="inline-flex min-w-0 items-start gap-1.5 text-xs text-white/45">
-          <MapPin className="mt-0.5 h-3.5 w-3.5 shrink-0 text-un-blue/80" />
-          <span className="min-w-0 break-words sm:line-clamp-1">{appearance.venue}</span>
-        </p>
+              {appearance.venue ? (
+                <p className="inline-flex min-w-0 items-start gap-1.5 text-xs text-white/45">
+                  <MapPin className="mt-0.5 h-3.5 w-3.5 shrink-0 text-un-blue/80" />
+                  <span className="min-w-0 break-words sm:line-clamp-1">{appearance.venue}</span>
+                </p>
+              ) : null}
       </div>
 
       <div className="mt-4 grid gap-3 sm:grid-cols-[6.5rem_1fr] sm:gap-5 lg:grid-cols-[7rem_1fr]">
