@@ -1732,39 +1732,6 @@
     }
   },
   {
-    "slug": "mike-bass",
-    "name": "Mike Bass",
-    "title": "Head of",
-    "company": "AI Agents & Autonomous Finance",
-    "bio": "Mike Bass is the Head of AI Agents & Autonomous Finance, a role that places him at the forefront of the convergence between artificial intelligence and decentralized money. He architects and deploys self‑sovereign AI agents that autonomously execute complex financial strategies — from yield optimization and portfolio rebalancing to algorithmic market making and MEV‑aware trade routing — all secured and verified on the blockchain.\n\nWith a deep background in quantitative finance, machine learning, and smart contract engineering, Mike has spent the last decade building high‑performance trading systems for both traditional hedge funds and DeFi protocols. He currently leads a specialized team that develops modular AI agent frameworks capable of operating across multiple chains, liquidity pools, and lending markets. His agents are designed with embedded ethical constraints, verifiable execution via zero‑knowledge proofs, and governance mechanisms that ensure human overrides remain paramount. Mike envisions a future where every individual has access to a personalized, autonomous financial assistant that works 24/7, democratizing sophisticated wealth management. At Blockchain Week - UNGA Edition he demonstrates the live deployment of AI agents that are reshaping the capital markets — and explains how to ensure they remain trustworthy, transparent, and aligned with human intent.",
-    "expertise": [
-      "Autonomous AI Agents for DeFi",
-      "Algorithmic Trading & Market Making",
-      "Smart Contract Automation & Verifiable Execution",
-      "Agent Governance & Safety Constraints",
-      "Multi‑Chain Yield & Liquidity Optimization"
-    ],
-    "photo": "/speakers/mike-bass.jpg",
-    "themes": [
-      "ai"
-    ],
-    "featured": false,
-    "headline": "Autonomous Money: When AI Agents Become Your Portfolio Manager",
-    "tagline": "Head of AI Agents & Autonomous Finance",
-    "subtitle": "AI Agents & Autonomous Finance\nDecentralized Intelligence • Agentic DeFi • On‑Chain Automation",
-    "signatureMoves": [
-      "Head of AI Agents & Autonomous Finance",
-      "Built the first fleet of 10,000+ live autonomous DeFi agents",
-      "Integrated ZK‑proofs for agent strategy verification",
-      "Former Quant Lead at a $2B AUM hedge fund",
-      "Speaker on Agentic Finance and the Future of Wealth"
-    ],
-    "quote": "“The next billion users won’t interact with DeFi — they’ll interact with AI agents that interact with DeFi. Our job is to make those agents transparent, safe, and ultimately, an extension of the user’s own financial will.”",
-    "social": {
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mike%20Bass"
-    }
-  },
-  {
     "slug": "mike-lingle",
     "name": "Mike Lingle",
     "title": "Early-stage Advisor",

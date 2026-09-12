@@ -421,10 +421,6 @@
               "slug": "dan-saklakov"
             },
             {
-              "name": "Mike Bass",
-              "slug": "mike-bass"
-            },
-            {
               "name": "Elizabeth Sullivan",
               "slug": "elizabeth-sullivan"
             },
@@ -514,10 +510,6 @@
           "kind": "panel",
           "title": "Digital Assets, Bitcoin, Stablecoin and Banking: Securing the Training Pipeline",
           "speakers": [
-            {
-              "name": "Ashvin Dhawan",
-              "slug": "ashvin-dhawan"
-            },
             {
               "name": "Muneer Basha Shaik",
               "slug": "muneer-basha-shaik"
@@ -1043,10 +1035,6 @@
             {
               "name": "Trish Kane",
               "slug": "trish-kane"
-            },
-            {
-              "name": "Mike Bass",
-              "slug": "mike-bass"
             }
           ],
           "description": "Closing day two with the human operating system: energy, compute intensity, and heart coherence for leaders working under sustained pressure. The panel connects personal resilience to the same systems thinking that drives the week’s tech agenda."

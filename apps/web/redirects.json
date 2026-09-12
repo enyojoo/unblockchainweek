@@ -826,12 +826,12 @@
   },
   {
     "source": "/speakers/mike-bass",
-    "destination": "/mike-bass",
+    "destination": "/speakers",
     "permanent": true
   },
   {
     "source": "/mike-bass-2",
-    "destination": "/mike-bass",
+    "destination": "/speakers",
     "permanent": true
   },
   {
@@ -1857,6 +1857,11 @@
   {
     "source": "/matt-andelman-2",
     "destination": "/matt-andelman",
+    "permanent": true
+  },
+  {
+    "source": "/mike-bass",
+    "destination": "/speakers",
     "permanent": true
   }
 ]
