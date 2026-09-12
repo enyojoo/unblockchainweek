@@ -529,6 +529,10 @@
             {
               "name": "Bryan Talebi",
               "slug": "bryan-talebi"
+            },
+            {
+              "name": "Benjamin Smith",
+              "slug": "benjamin-smith"
             }
           ],
           "description": "Banks, Bitcoin, and stablecoins only scale if people know how to operate them. This panel focuses on securing the talent and training pipeline–skills, tooling, and institutional readiness for a digital-asset workforce."
@@ -922,7 +926,7 @@
             },
             {
               "name": "Matt Andelman",
-              "slug": null
+              "slug": "matt-andelman"
             },
             {
               "name": "Rosalyn Brown",

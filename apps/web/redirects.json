@@ -156,12 +156,12 @@
   },
   {
     "source": "/speakers/benjamin-smith",
-    "destination": "/speakers",
+    "destination": "/benjamin-smith",
     "permanent": true
   },
   {
     "source": "/benjamin-smith-2",
-    "destination": "/speakers",
+    "destination": "/benjamin-smith",
     "permanent": true
   },
   {
@@ -1690,11 +1690,6 @@
     "permanent": true
   },
   {
-    "source": "/benjamin-smith",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
     "source": "/ali-abou-daya",
     "destination": "/speakers",
     "permanent": true
@@ -1852,6 +1847,16 @@
   {
     "source": "/nick-spanos-2",
     "destination": "/nick-spanos",
+    "permanent": true
+  },
+  {
+    "source": "/speakers/matt-andelman",
+    "destination": "/matt-andelman",
+    "permanent": true
+  },
+  {
+    "source": "/matt-andelman-2",
+    "destination": "/matt-andelman",
     "permanent": true
   }
 ]

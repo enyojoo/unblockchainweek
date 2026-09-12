@@ -209,35 +209,38 @@
   },
   {
     "slug": "angele-doyne",
-    "name": "Angele’ Doyne",
-    "title": "Founder",
-    "company": "Intersecti – Architecture of Intelligent Economies",
-    "bio": "Angele’ Doyne is the Founder of Intersecti, a visionary systems architecture firm that designs the next generation of intelligent economies. She operates at the intersection of advanced AI, blockchain coordination, and complex systems science — crafting the structural blueprints that enable economies to become adaptive, self‑optimizing, and inherently regenerative rather than extractive.\n\nWith a rare multidisciplinary background spanning economic theory, artificial intelligence, and distributed ledger technology, Angele’ has advised governments, Layer‑1 protocols, and large‑scale DAOs on the fundamental architecture of their economic models. Intersecti’s approach treats an economy not as a static set of incentives, but as a living, intelligent system that learns from data, adjusts policy via smart contracts, and aligns millions of autonomous agents toward shared prosperity. Her work integrates dynamic tokenomics, AI‑powered governance simulators, and multi‑agent reinforcement learning to stress‑test economic resilience before deployment. Angele’ is a fierce advocate for designing economies that serve humanity rather than enslave it. At Blockchain Week - UNGA Edition she reveals how the synthesis of AI and blockchain will give rise to the world’s first truly intelligent, self‑governing economies.",
+    "name": "Angele' Doyne",
+    "title": "Chief",
+    "company": "Scionic Method · Disruptor DAO",
+    "bio": "Angele' is a cross-sector innovator building at the intersection of AI, blockchain, and decentralized infrastructure. She serves as Chief at Scionic Method, architecting blockchain-based wealth protection and legacy transfer infrastructure for high-net-worth families, family offices, and executives navigating self-custody digital asset management.\n\nAs co-founder of Disruptor DAO, she is developing a tokenized economy that brings together multiple enterprises onto a shared blockchain. Within technology education and infrastructure development, Angele' advises CDFIs and mission-driven institutions navigating AI, blockchain, and fintech adoption.\n\nHer work spans international smart city infrastructure development, cooperative economic and advisory on federal contracting strategy and large-scale procurement systems. That range gives her a systems-level view of how emerging technology, capital, and policy converge at scale – from city infrastructure, to decentralized economies, to intergenerational wealth transfer.",
     "expertise": [
-      "Intelligent Economic System Design",
-      "AI‑Native Tokenomics & Dynamic Incentives",
-      "Multi‑Agent Governance & Coordination",
-      "Complex Systems & Network Theory",
-      "Regenerative & Circular Economic Models"
+      "Blockchain Wealth Protection & Legacy Transfer",
+      "Self-Custody Digital Asset Infrastructure",
+      "Tokenized Multi-Enterprise Economies",
+      "AI, Blockchain & Fintech Adoption for CDFIs",
+      "Smart City Infrastructure Development",
+      "Federal Contracting & Large-Scale Procurement"
     ],
     "photo": "/speakers/angele-doyne.png",
     "themes": [
-      "ai"
+      "ai",
+      "investment",
+      "policy"
     ],
     "featured": false,
-    "headline": "Engineering Economies That Think: The Blueprint for Intelligent Systems",
-    "tagline": "Founder • Intersecti – Architecture of Intelligent Economies",
-    "subtitle": "Intersecti – Architecture of Intelligent Economies\nAI‑Native Economic Design • Tokenized Coordination • Adaptive Systems",
+    "headline": "Building Wealth Protection, Tokenized Economies, and Infrastructure Where AI and Blockchain Meet",
+    "tagline": "Chief • Scionic Method · Co-Founder, Disruptor DAO",
+    "subtitle": "Scionic Method · Disruptor DAO\nWealth Protection · Tokenized Economies · AI & Blockchain Adoption",
     "signatureMoves": [
-      "Founder – Intersecti",
-      "Architect of the Adaptive Tokenomics Standard (ATS)",
-      "Designed the first AI‑governed economic simulator for a major L1",
-      "Advised central banks on CBDC ecosystem design",
-      "Keynote speaker on the future of intelligent economies"
+      "Chief – Scionic Method (blockchain wealth protection & legacy transfer)",
+      "Co-Founder – Disruptor DAO",
+      "Advises CDFIs and mission-driven institutions on AI, blockchain & fintech",
+      "International smart city infrastructure development",
+      "Federal contracting strategy & large-scale procurement advisory"
     ],
-    "quote": "“We’ve been building economies on intuition and ideology. The next era will be built on intelligence — adaptive, data‑driven, and aligned with the flourishing of every participant.”",
+    "quote": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Angele%20Doyne"
+      "linkedin": "https://www.linkedin.com/in/angele-d/"
     }
   },
   {
@@ -3431,6 +3434,74 @@
     "quote": "“Players should not have to care that a game is powered by blockchain. They should simply enjoy great games with clear rewards and a stable economy they can actually take with them.”",
     "social": {
       "linkedin": "https://www.linkedin.com/in/coreykovnats/"
+    }
+  },
+  {
+    "slug": "matt-andelman",
+    "name": "Matt Andelman",
+    "title": "Head of Business Development",
+    "company": "Polymath",
+    "bio": "Matt Andelman is a fintech and real estate executive focused on the intersection of capital formation, private markets, and tokenization. He serves as Head of Business Development at Polymath, where he works with issuers, broker-dealers, financial institutions, asset managers, and technology partners to bring real-world assets and private-market investments on-chain. His work focuses on expanding adoption of Polymath's institutional tokenization infrastructure and helping organizations navigate the path from traditional capital formation to blockchain-enabled financial markets.\n\nMatt also co-founded ABC FinTech, which operates a tokenized commercial real estate fund focused on acquiring and managing investment properties while leveraging blockchain infrastructure to modernize ownership, investor administration, and the management of private real estate investments. Through ABC FinTech, he has gained firsthand experience at the intersection of commercial real estate, capital raising, investor relations, and digital securities.\n\nIn addition, Matt has hands-on experience in commercial real estate development and investment, including ground-up development, acquisitions, capital raising, investor relations, asset management, and project execution. Across these roles, he has developed a broad network spanning broker-dealers, family offices, RIAs, investment sponsors, fintech companies, blockchain infrastructure providers, and private-market investors. He is particularly interested in building the infrastructure and partnerships necessary to make tokenized assets a practical part of mainstream capital markets. Matt is based in the Chicago area and works with companies and investors across the U.S., Canada, and international markets.",
+    "expertise": [
+      "RWA Tokenization & Institutional Infrastructure",
+      "Commercial Real Estate Capital Formation",
+      "Private Markets & Digital Securities",
+      "Tokenized CRE Funds & Investor Administration",
+      "Broker-Dealer & Family Office Partnerships"
+    ],
+    "photo": "/speakers/matt-andelman.jpg",
+    "themes": [
+      "investment",
+      "stablecoin"
+    ],
+    "featured": false,
+    "headline": "Bringing Real-World Assets and Private Markets On-Chain with Institutional Tokenization",
+    "tagline": "Head of Business Development • Polymath",
+    "subtitle": "Polymath · ABC FinTech\nRWA Tokenization · Commercial Real Estate · Private Markets",
+    "signatureMoves": [
+      "Head of Business Development – Polymath",
+      "Co-Founder – ABC FinTech (tokenized commercial real estate fund)",
+      "Institutional RWA & private-market tokenization partnerships",
+      "Commercial real estate development, acquisitions & capital raising",
+      "Network across broker-dealers, family offices, RIAs & sponsors"
+    ],
+    "quote": "“Tokenization can modernize ownership and administration – but the token represents the investment interest, not the building itself, and it does not replace legal agreements, securities compliance, or professional asset management.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mattfromabc/",
+      "website": "https://polymath.network"
+    }
+  },
+  {
+    "slug": "benjamin-smith",
+    "name": "Benjamin Smith",
+    "title": "Chief Business Officer",
+    "company": "Coinsub",
+    "bio": "Benjamin Smith is the Chief Business Officer at Coinsub, the pioneering infrastructure platform that brings the $275 billion subscription economy onto the blockchain. He leads business development, strategic partnerships, and enterprise adoption of Coinsub’s smart contract‑based recurring payments and streaming money protocols – enabling businesses to accept programmable, borderless, and automated billing without relying on traditional card networks or banks.\n\nWith over 15 years of experience in fintech, payments, and SaaS business models, Benjamin has held senior commercial roles at leading payment processors and e‑commerce platforms. He recognized early that the subscription business model was fundamentally incompatible with legacy banking rails – plagued by chargebacks, cross‑border friction, and high fees – and that blockchain’s native capabilities (streaming payments via EIP‑1337, programmable money, and automated smart contracts) would unlock the next trillion‑dollar wave of recurring revenue. Coinsub offers plug‑and‑play integration for Web2 companies transitioning to Web3 and for DAOs, protocols, and dApps that require recurring funding, payroll streaming, and grant distribution. Benjamin is a recognized voice on tokenized business models and has advised Fortune 500 companies on how to introduce crypto subscriptions without alienating mainstream users. At Blockchain Week - UNGA Edition he reveals how recurring payments are the killer use case that finally bridges the gap between everyday commerce and decentralized finance.",
+    "expertise": [
+      "Web3 Subscription & Recurring Revenue Models",
+      "Streaming Money & Programmable Payments (EIP‑1337)",
+      "Enterprise Business Development & Partnerships",
+      "Fiat On/Off‑Ramp & Stablecoin Settlement",
+      "Tokenized Commerce & SaaS Integration"
+    ],
+    "photo": "/speakers/benjamin-smith.jpg",
+    "themes": [
+      "stablecoin"
+    ],
+    "featured": false,
+    "headline": "Tokenizing the Subscription Economy: Programmable Recurring Payments on Blockchain",
+    "tagline": "Chief Business Officer • Coinsub",
+    "subtitle": "Coinsub\nWeb3 Subscription & Recurring Payments Infrastructure",
+    "signatureMoves": [
+      "Chief Business Officer – Coinsub",
+      "Launched the first fully on‑chain subscription billing API",
+      "Signed partnerships with 50+ enterprises transitioning to Web3",
+      "Former VP of Payments at a leading global processor",
+      "Speaker: The Trillion‑Dollar Recurring Payments Opportunity"
+    ],
+    "quote": "“Netflix and Spotify taught the world to love subscriptions. Blockchain will teach the world to love programmable subscriptions – no borders, no chargebacks, no middlemen. That’s the future of commerce.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/benjamin-smith-5848661/"
     }
   }
 ]
