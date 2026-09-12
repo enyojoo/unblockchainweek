@@ -3303,8 +3303,8 @@
   {
     "slug": "joseph-caturay",
     "name": "Joseph Caturay",
-    "title": "Founder",
-    "company": "Stablecoins & RWA in Gaming",
+    "title": "Founder & CEO",
+    "company": "Gatsby Games",
     "bio": "Joseph (Joey) Caturay is the Founder of Gatsby Games, pioneering the integration of stablecoins and real-world assets (RWA) into gaming. His platform creates gold-backed, USD-stable in-game economies so players can buy, sell, and trade items with real, non-volatile value instead of speculative tokens – delivering unified wallets, shared marketplaces, and sustainable microtransaction rails across titles.\n\nThrough Gatsby, Joey is developing franchises such as Pocket Ninja and War of Art that settle on a gold-backed stablecoin layer, ensuring players retain tangible economic upside. His work focuses on regulated fintech infrastructure that mobilizes stablecoins and RWAs inside consumer experiences, starting with gaming and designed to scale across verticals. By replacing volatility with gold- and USD-backed settlement, he is redefining how blockchain delivers lasting value in digital entertainment.",
     "expertise": [
       "Stablecoins in Gaming Economies",
@@ -3319,10 +3319,10 @@
     ],
     "featured": false,
     "headline": "Building Real-Value Gaming Economies with Stablecoins & RWA",
-    "tagline": "Founder • Stablecoins & RWA in Gaming",
+    "tagline": "Founder & CEO • Gatsby Games",
     "subtitle": "Gatsby Games\nStablecoins & RWA in Gaming",
     "signatureMoves": [
-      "Founder – Gatsby Games",
+      "Founder & CEO – Gatsby Games",
       "Gold-Backed Stablecoin Settlement",
       "Pocket Ninja & War of Art Universes",
       "RWA Infrastructure for Consumer Apps",
@@ -3469,6 +3469,178 @@
     "quote": "“Netflix and Spotify taught the world to love subscriptions. Blockchain will teach the world to love programmable subscriptions – no borders, no chargebacks, no middlemen. That’s the future of commerce.”",
     "social": {
       "linkedin": "https://www.linkedin.com/in/benjamin-smith-5848661/"
+    }
+  },
+  {
+    "slug": "anna-l-de-bacci",
+    "name": "Anna L De Bacci",
+    "title": "Co-Founder & Managing Partner",
+    "company": "De Bacci Capital",
+    "bio": "Anna L De Bacci is Co-Founder and Managing Partner of De Bacci Capital and a representative of The De Bacci Noble Family, building one of the world's most relationship-driven private investment networks connecting visionary founders with family offices, venture capital firms, and strategic allocators across Dubai, London, New York, and beyond.\n\nThrough De Bacci Capital, she curates warm introductions, private investor gatherings, and deal-flow platforms that bridge legacy capital stewardship with emerging technologies – including Web3, blockchain infrastructure, artificial intelligence, and fintech. Her work emphasizes ethical governance, long-term partnership, and capital deployed with integrity and global impact.\n\nA frequent speaker and moderator at forums including the Global Blockchain Show, Wiki Finance Expo Dubai, The Capital Circle, and the Ethical Leadership & Investments Summit, Anna brings a family-first approach to venture ecosystem building – reminding markets that trust, principled leadership, and cross-border collaboration remain the foundation of enduring investment success.",
+    "expertise": [
+      "Venture Capital & Private Equity",
+      "Family Office & Investor Relations",
+      "Startup Fundraising & Deal Flow",
+      "Web3, Blockchain & Digital Assets",
+      "Ethical Leadership in Global Markets",
+      "Cross-Border Investment Strategy"
+    ],
+    "photo": "/speakers/anna-l-de-bacci.jpg",
+    "themes": [
+      "investment",
+      "policy",
+      "bitcoin",
+      "ai"
+    ],
+    "featured": false,
+    "headline": "Bridging Global Capital, Ethical Leadership & the Next Generation of Web3 Innovation",
+    "tagline": "Co-Founder & Managing Partner • De Bacci Capital",
+    "subtitle": "De Bacci Capital\nVenture Capital • Family Offices • Web3, AI & Cross-Border Investment",
+    "signatureMoves": [
+      "Co-Founder & Managing Partner – De Bacci Capital",
+      "Representative of The De Bacci Noble Family",
+      "Curator of global investor networks spanning 50,000+ members",
+      "Speaker at Global Blockchain Show, Wiki Finance Expo & Capital Circle",
+      "Host of private investor dinners at TOKEN2049, Blockchain Life & ADFW",
+      "Advocate for ethical, relationship-driven capital allocation"
+    ],
+    "quote": "“At De Bacci Capital, we firmly believe that capital is not only a tool for returns, but a responsibility toward future generations.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/anna-l-de-bacci-18ab4125a/",
+      "website": "https://debacciofficial.org/"
+    }
+  },
+  {
+    "slug": "david-porter",
+    "name": "David Porter",
+    "title": "Founder & COO",
+    "company": "GlobalBoost • Blockchain Week - UNGA Edition • Washington Elite",
+    "bio": "David Porter is Founder & COO of GlobalBoost, Co-Founder of Washington Elite, and a key architect of Blockchain Week - UNGA Edition. Working alongside his brother Bruce Porter Jr., he has helped build one of the most influential decentralized media and event platforms in the blockchain space, bringing together policymakers, investors, innovators, and global leaders during the United Nations General Assembly in New York.\n\nKnown as the “Crypto Barber,” David was among the first entrepreneurs to integrate cryptocurrency payments into everyday traditional businesses. An early Bitcoin adopter and community builder, he drives operational excellence, strategic partnerships, and high-impact event production for GlobalBoost’s $BSTY decentralized media network and the Washington Elite Investment Summit & Gala – the flagship black-tie event of Blockchain Week - UNGA Edition. His work focuses on making blockchain accessible, supporting wounded veterans, and fostering real-world adoption of decentralized technologies.",
+    "expertise": [
+      "Decentralized Media & $BSTY",
+      "Blockchain Event Production",
+      "Community & Partnership Building",
+      "Crypto Adoption in Traditional Business",
+      "UNGA-Aligned Global Summits"
+    ],
+    "photo": "/speakers/david-porter.jpg",
+    "themes": [
+      "bitcoin"
+    ],
+    "featured": false,
+    "headline": "Architect of Blockchain Week - UNGA Edition & Decentralized Media Pioneer",
+    "tagline": "Founder & COO • GlobalBoost",
+    "subtitle": "GlobalBoost • Blockchain Week - UNGA Edition\nWashington Elite",
+    "signatureMoves": [
+      "Founder & COO – GlobalBoost",
+      "Co-Founder – Washington Elite",
+      "Architect of Blockchain Week - UNGA Edition",
+      "“Crypto Barber” Pioneer",
+      "Early Bitcoin Adopter & Builder"
+    ],
+    "quote": "“Blockchain Week - UNGA Edition is where policy, capital, and innovation converge to turn decentralized technology into real-world impact.”",
+    "social": {
+      "linkedin": "https://linkedin.com/in/realDavidPorter"
+    }
+  },
+  {
+    "slug": "jorge-sebastiao",
+    "name": "Jorge Sebastiao",
+    "title": "Founder",
+    "company": "EcoX Network",
+    "bio": "Jorge Sebastiao is the Founder of EcoX Network – one of the largest and most active Blockchain, Web3, AI, and Technology communities in the Middle East. Through EcoX he has created a thriving ecosystem of events, networking, talent, investment connections, and knowledge-sharing that connects entrepreneurs, investors, and innovators across the region and beyond.\n\nWith more than 35 years of ICT experience as a seasoned CTO, CISO, and international speaker, Jorge has worked across telecom, oil & gas, finance, government, defense, healthcare, and education. He previously held senior technology leadership roles including at Huawei in the Middle East. He is the creator of the A6 security framework (Assess, Architect, Apply, Administer, Awareness & Agility) and an author focused on innovation, cybersecurity, and building successful technology ventures. At Blockchain Week - UNGA Edition he shares insights on ecosystem building, sustainable blockchain adoption, and the practical intersection of Web3, AI, and real-world impact.",
+    "expertise": [
+      "Blockchain & Web3 Ecosystems",
+      "Community & Network Building",
+      "Cybersecurity & ICT Architecture",
+      "AI, Tokenization & Sustainability",
+      "Startup & Innovation Advisory"
+    ],
+    "photo": "/speakers/jorge-sebastiao.jpg",
+    "themes": [
+      "ai"
+    ],
+    "featured": false,
+    "headline": "Building the Middle East’s Leading Blockchain & Technology Ecosystem",
+    "tagline": "Founder • EcoX Network",
+    "subtitle": "EcoX Network\nBlockchain & Technology Ecosystem Builder",
+    "signatureMoves": [
+      "Founder – EcoX Network",
+      "Co-Founder – Global Blockchain Organization",
+      "Former CTO – Huawei Middle East",
+      "Creator of A6 Security Framework",
+      "International ICT Speaker & Author"
+    ],
+    "quote": "“True innovation happens when technology, community, and real business value come together. Ecosystems – not just products – are what scale impact.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sebastiao/?locale=es"
+    }
+  },
+  {
+    "slug": "mariya-spartalis",
+    "name": "Mariya Spartalis",
+    "title": "Seasoned Private Banking and FinTech Executive",
+    "company": "Private Banking & FinTech",
+    "bio": "Mariya Spartalis is a seasoned Private Banking and FinTech Executive with more than two decades of experience serving high-net-worth and ultra-high-net-worth clients across Europe and beyond. As Founder of Spartalis Capital in Zurich and Partner in Wealth Management at Terreus Capital AG, she delivers tailored family office, banking, and investment solutions that seamlessly integrate traditional wealth management with digital assets, crypto structuring, and blockchain-enabled strategies.\n\nHer career includes senior roles at Credit Suisse (Vice President), Falcon Private Bank (Director of the CEE Desk, where she pioneered crypto account services), Schoellerbank, and other leading institutions. Specializing in CEE and Western European clients, she advises on portfolio construction, tokenization, DeFi, AI-powered wealth strategies, and cross-border banking. A global speaker at Davos and major family office summits, and named Businesswoman of the Year 2024 in Dubai, Mariya is recognized for connecting “old money” sophistication with the opportunities of the digital asset era.",
+    "expertise": [
+      "UHNW Private Banking & Family Offices",
+      "Crypto & Digital Asset Structuring",
+      "Blockchain Financing & Tokenization",
+      "Cross-Border Wealth Solutions",
+      "AI-Powered Portfolio Strategies"
+    ],
+    "photo": "/speakers/mariya-spartalis.jpg",
+    "themes": [
+      "ai",
+      "investment"
+    ],
+    "featured": false,
+    "headline": "Bridging Elite Private Banking with FinTech, Crypto & Blockchain",
+    "tagline": "Private Banking & FinTech Executive",
+    "subtitle": "Founder, Spartalis Capital\nPrivate Banking • FinTech • Digital Assets",
+    "signatureMoves": [
+      "Founder – Spartalis Capital Zurich",
+      "Partner – Terreus Capital AG",
+      "Ex-Credit Suisse & Falcon Private Bank",
+      "Businesswoman of the Year 2024 (Dubai)",
+      "Global Speaker (Davos, Family Offices)"
+    ],
+    "quote": "“The future of wealth lies at the intersection of timeless private banking principles and the transformative power of FinTech, crypto, and blockchain.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mariya-spartalis-282a1946/"
+    }
+  },
+  {
+    "slug": "sunil-upadhye",
+    "name": "Sunil Upadhye",
+    "title": "Resilience Expert & Ambassador",
+    "company": "LivesAmplifed / White House Program",
+    "bio": "Sunil Upadhye is a Resilience Expert & Ambassador associated with LivesAmplified and White House Program initiatives. He specializes in practical frameworks that help individuals, organizations, and societies anticipate disruption, adapt under pressure, and emerge stronger – whether facing technological shifts, institutional challenges, or large-scale systemic change.\n\nDrawing on decades of experience navigating high-stakes environments across government, enterprise transformation, healthcare systems, and financial institutions, Sunil focuses on the human and organizational capacity to withstand shocks and convert adversity into forward momentum. His work emphasizes that resilience is not merely recovery – it is the cultivated ability to operate effectively amid uncertainty and to design systems that remain robust as technology, markets, and societies evolve. At Blockchain Week - UNGA Edition he brings this lens to the intersection of emerging technologies, leadership, and long-term institutional strength.",
+    "expertise": [
+      "Organizational & Personal Resilience",
+      "Crisis Navigation & Adaptation",
+      "Leadership Under Uncertainty",
+      "Systems Strength & Continuity",
+      "Transformation in High-Stakes Environments"
+    ],
+    "photo": "/speakers/sunil-upadhye.jpg",
+    "themes": [
+      "identity"
+    ],
+    "featured": false,
+    "headline": "Building Resilience for Leaders, Systems & Communities",
+    "tagline": "Resilience Expert & Ambassador",
+    "subtitle": "LivesAmplified / White House Program",
+    "signatureMoves": [
+      "Resilience Expert & Ambassador",
+      "LivesAmplified Association",
+      "White House Program Engagement",
+      "High-Stakes Transformation Experience",
+      "Practical Resilience Frameworks"
+    ],
+    "quote": "“Resilience is not the absence of disruption – it is the capacity to meet it, adapt through it, and emerge with greater strength and clarity for what comes next.”",
+    "social": {
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sunil%20Upadhye"
     }
   }
 ]

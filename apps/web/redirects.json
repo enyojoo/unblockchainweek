@@ -356,12 +356,12 @@
   },
   {
     "source": "/speakers/david-porter",
-    "destination": "/speakers",
+    "destination": "/david-porter",
     "permanent": true
   },
   {
     "source": "/david-porter-2",
-    "destination": "/speakers",
+    "destination": "/david-porter",
     "permanent": true
   },
   {
@@ -656,12 +656,12 @@
   },
   {
     "source": "/speakers/jorge-sebastiao",
-    "destination": "/speakers",
+    "destination": "/jorge-sebastiao",
     "permanent": true
   },
   {
     "source": "/jorge-sebastiao-2",
-    "destination": "/speakers",
+    "destination": "/jorge-sebastiao",
     "permanent": true
   },
   {
@@ -766,12 +766,12 @@
   },
   {
     "source": "/speakers/mariya-spartalis",
-    "destination": "/speakers",
+    "destination": "/mariya-spartalis",
     "permanent": true
   },
   {
     "source": "/mariya-spartalis-2",
-    "destination": "/speakers",
+    "destination": "/mariya-spartalis",
     "permanent": true
   },
   {
@@ -1101,12 +1101,12 @@
   },
   {
     "source": "/speakers/sunil-upadhye",
-    "destination": "/speakers",
+    "destination": "/sunil-upadhye",
     "permanent": true
   },
   {
     "source": "/sunil-upadhye-2",
-    "destination": "/speakers",
+    "destination": "/sunil-upadhye",
     "permanent": true
   },
   {
@@ -1341,12 +1341,12 @@
   },
   {
     "source": "/speakers/anna-l-de-bacci",
-    "destination": "/speakers",
+    "destination": "/anna-l-de-bacci",
     "permanent": true
   },
   {
     "source": "/anna-l-de-bacci-2",
-    "destination": "/speakers",
+    "destination": "/anna-l-de-bacci",
     "permanent": true
   },
   {
@@ -1585,11 +1585,6 @@
     "permanent": true
   },
   {
-    "source": "/david-porter",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
     "source": "/venkata-r-vinjamuri",
     "destination": "/speakers",
     "permanent": true
@@ -1725,11 +1720,6 @@
     "permanent": true
   },
   {
-    "source": "/mariya-spartalis",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
     "source": "/pratik-thantharate",
     "destination": "/speakers",
     "permanent": true
@@ -1740,17 +1730,7 @@
     "permanent": true
   },
   {
-    "source": "/sunil-upadhye",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
     "source": "/mohammad-asad-hussain",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
-    "source": "/anna-l-de-bacci",
     "destination": "/speakers",
     "permanent": true
   },
@@ -1801,11 +1781,6 @@
   },
   {
     "source": "/sudheer-kotilingala",
-    "destination": "/speakers",
-    "permanent": true
-  },
-  {
-    "source": "/jorge-sebastiao",
     "destination": "/speakers",
     "permanent": true
   },
